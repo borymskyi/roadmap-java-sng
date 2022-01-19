@@ -2,7 +2,7 @@
 
 Структурированный список ресурсов для изучения Java, который поможет систематизировать занятия. Основан на личном опыте и самостоятельном изучении данной области.
 
-### Roadmap
+## Roadmap
 * [Java Core - ссылка на курс](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)
 * [Java Core продвинутый - ссылка на курс #2](https://coursehunter.net/course/java-poluchi-chernyy-poyas)
 * [Java глубокие знания - ссылка на плейлист](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)
@@ -36,7 +36,7 @@
 * **Тестовые собеседования:** *[ссылка на плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
 * **Резюме на английском:** *[ссылка на Немчинского, как писать](https://www.youtube.com/watch?v=UV3YSVBJxX0)*
 
-### Дополнительный материал
+## Дополнительный материал
 - *[ссылка на е.книгу по Архитектуре современных веб. приложений](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
 - *[ссылка на туториалы от Жени](https://proselyte.net/tutorials/)*
 - *[ссылка на групу в телеге с книгами](https://t.me/dmytrii_bookshelf)* здесь можно по тегу it найти следующие книги:
