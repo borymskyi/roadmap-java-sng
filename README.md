@@ -16,7 +16,7 @@
   - *[ссылка на плейлист с теорией по коллекциям](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)*
 * **Generics** *(как применять, как он работает).*
 * **Concurrency** **_(базовые знания)_** *(монитор, лог, светофор, как работает многопоточность, как создавать тред)*
-* **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)*
+* **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)* [(9Урок49:20)](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)
 * **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
 * **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
 * **Lamda** *(как она работает, как оно устроено, черный ящик)*
