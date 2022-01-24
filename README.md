@@ -40,12 +40,12 @@
 - *[ссылка на е.книгу по Архитектуре современных веб. приложений](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
 - *[ссылка на туториалы от Жени](https://proselyte.net/tutorials/)*
 - *[ссылка на групу в телеге с книгами](https://t.me/dmytrii_bookshelf)* здесь можно по тегу it найти следующие книги:
-  - Java. Полное руководство [10-е изданание]
+  - Java. Полное руководство [10-е изданание] Г.Шилдт
   - Java. Эффективное программирование [3-е издание]
   - Алгоритмы на Java [4-е издание]
   - Грокаем алгоритмы.
 - *[если у тебя все совсем плохо - лекции cs50 в помощь](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
-- ссылки на занимательные yt каналы:
+- Занимательные yt каналы:
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[Golovach Courses](https://www.youtube.com/user/KharkovITCourses)*
@@ -54,3 +54,5 @@
   - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
   - *[ExtremeCode](https://www.youtube.com/c/ExtremeCode)*
+- Интересные статьи:
+  - *[Зачем мне Java: неудобные вопросы о популярном языке и ответы на них](https://tproger.ru/articles/zachem-mne-java-voprosy-i-otvety/)*
