@@ -1,4 +1,4 @@
-## Roadmap Java (backend) (СНГ)
+## Roadmap Java developer (СНГ)
 
 Структурированный список ресурсов для изучения Java, который поможет систематизировать занятия. Основан на личном опыте и самостоятельном изучении данной области.
 
@@ -32,20 +32,22 @@
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 
 ### После подготовка к работе
-* **Подготовка к собеседоваию:** *[ссылка на частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
-* **Тестовые собеседования:** *[ссылка на плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
-* **Резюме на английском:** *[ссылка на Немчинского, как писать](https://www.youtube.com/watch?v=UV3YSVBJxX0)*
+* **Как найти первую работу в it:** *[Немчинский, что делать после завершения обучения](https://youtu.be/oLZuCGuAnsM)*
+* **Резюме на английском:** *[Немчинский, как писать резюме](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[GitHub как резюме программиста](https://youtu.be/nEnuP2NmMA4)*
+* **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
+* **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
 
 ## Дополнительный материал
-- *[ссылка на е.книгу по Архитектуре современных веб. приложений](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
-- *[ссылка на туториалы от Жени](https://proselyte.net/tutorials/)*
-- *[ссылка на групу в телеге с книгами](https://t.me/dmytrii_bookshelf)* здесь можно по тегу it найти следующие книги:
-  - Java. Полное руководство [10-е изданание] Г.Шилдт
-  - Java. Эффективное программирование [3-е издание]
-  - Алгоритмы на Java [4-е издание]
-  - Грокаем алгоритмы.
-- *[если у тебя все совсем плохо - лекции cs50 в помощь](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
-- Занимательные yt каналы:
+- Разное:
+  - *[Е.Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
+  - *[Краткие гайды от Жени](https://proselyte.net/tutorials/)*
+  - *[Телеграм канал с книгами](https://t.me/dmytrii_bookshelf)* , здесь можно по тегу it найти следующие книги:
+    - Java. Полное руководство 10-е изданание. Г.Шилдт
+    - Java. Эффективное программирование
+    - Алгоритмы на Java
+    - Грокаем алгоритмы
+  - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
+- Интересные yt каналы:
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[Golovach Courses](https://www.youtube.com/user/KharkovITCourses)*
@@ -56,3 +58,5 @@
   - *[ExtremeCode](https://www.youtube.com/c/ExtremeCode)*
 - Интересные статьи:
   - *[Зачем мне Java: неудобные вопросы о популярном языке и ответы на них](https://tproger.ru/articles/zachem-mne-java-voprosy-i-otvety/)*
+- Интересные ролики:
+  - *[Какие проекты делать начинающему программисту?](https://youtu.be/lNWp3_CVEO0)*
