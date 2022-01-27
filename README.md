@@ -52,6 +52,7 @@
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[Golovach Courses](https://www.youtube.com/user/KharkovITCourses)*
+  - *[Петр](https://youtube.com/channel/UCLUYG3J5lYXs9gwz98aXIsQ)*
   - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
   - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
   - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
