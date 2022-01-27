@@ -47,6 +47,7 @@
     - Алгоритмы на Java
     - Грокаем алгоритмы
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
+  - *[Годный плагин для Идеи, он заставляет тебя придерживаться чистому стилю письма](https://youtu.be/yrldX6dIS_4)*
 - Интересные yt каналы:
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
