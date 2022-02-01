@@ -19,6 +19,7 @@
 * **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)* [(9Урок49:20)](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)
 * **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
 * **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
+  - *[годный гайд от Немчинского](https://www.youtube.com/watch?v=IAbZVA4tK6M)*
 * **Lamda** *(как она работает, как оно устроено, черный ящик)*
 * **Stream** *(как работает)*
 * **String** **_(и память) (Часто спрашивают!)_** *(работа с памятю, как он копирует, и многое другое)*
