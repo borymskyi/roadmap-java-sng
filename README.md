@@ -1,11 +1,16 @@
-## Roadmap Java developer (СНГ)
+# Roadmap Java developer (СНГ)
 
 Структурированный список ресурсов для изучения Java, который поможет систематизировать занятия. Основан на личном опыте и самостоятельном изучении данной области.
 
 ## Roadmap
-* [Java Core - ссылка на курс](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)
-* [Java Core продвинутый - ссылка на курс #2](https://coursehunter.net/course/java-poluchi-chernyy-poyas)
-* [Java глубокие знания - ссылка на плейлист](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)
+### JAVA CORE
+Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, еще ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
+* **[Java Core с нуля](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)**
+* **[Java Core продвинутый](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
+* **[Java Core детали](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
+
+Для закрепления темы можно потренироваться решая задачи: *[CodingBat](https://codingbat.com/java)*, *[Практические задачи по Java](https://habr.com/ru/post/440436/)*, *[1000 задач на Java](https://github.com/allicen/Java-1000)*, *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*.
+
 
 ### Далее по пунктам
 * **ООП**
