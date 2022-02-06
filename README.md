@@ -2,9 +2,10 @@
 
 Структурированный список ресурсов для изучения Java, который поможет систематизировать занятия. Основан на личном опыте и самостоятельном изучении данной области.
 
-## Roadmap
-### JAVA CORE
-Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, еще ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
+
+
+## JAVA CORE
+Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
 * **[Java Core с нуля](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)**
 * **[Java Core продвинутый](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
 * **[Java Core детали](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
@@ -14,6 +15,25 @@
 Книги - которые покрывают все особенности языка: *[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)*, *[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)*
 
 Книги - для укрепления знаний и как использовать все должным образом: *[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)*, *[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)*
+
+
+## ALGORYTHMS & DATA STRUCTURES
+Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
+
+* **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
+
+Практика алгоритмов и сд: 
+- заходим на сайт **[LeetCode](https://leetcode.com/problemset/all/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
+- еще вариант (читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину)).
+- еще вариант (решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*) или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*).
+
+Ролики на yt которые могут помочь: 
+- *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
+
+
+
+
+
 
 
 ### Далее по пунктам
