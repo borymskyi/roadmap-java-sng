@@ -27,9 +27,9 @@
 * **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
 
 Практика алгоритмов и сд: 
-- заходим на сайт **[LeetCode](https://leetcode.com/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
-- еще вариант (читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину)).
-- еще вариант (решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*) или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*).
+- вариант 1: заходим на сайт **[LeetCode](https://leetcode.com/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
+- вариант 2: (читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину)).
+- вариант 3: (решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*) или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*).
 
 Ролики на Youtube которые могут помочь: 
 - *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
