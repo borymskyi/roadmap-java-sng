@@ -11,6 +11,10 @@
 
 Для закрепления темы можно потренироваться решая задачи: *[CodingBat](https://codingbat.com/java)*, *[Практические задачи по Java](https://habr.com/ru/post/440436/)*, *[1000 задач на Java](https://github.com/allicen/Java-1000)*, *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*.
 
+Книги - которые покрывают все особенности языка: *[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)*, *[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)*
+
+Книги - для укрепления знаний и как использовать все должным образом: *[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)*, *[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)*
+
 
 ### Далее по пунктам
 * **ООП**
