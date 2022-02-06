@@ -31,7 +31,7 @@
 - еще вариант (читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину)).
 - еще вариант (решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*) или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*).
 
-Ролики на yt которые могут помочь: 
+Ролики на Youtube которые могут помочь: 
 - *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
 - *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
 - *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
@@ -39,36 +39,38 @@
 
 
 ## SQL & JDBC
-* **[Весь курс от Головача](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko)**
 * **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
 * **[JDBC: Введение в JDBC](https://youtu.be/7LwOvVPavWA)**
 * **[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)**
 * **[Практический курс для новичков](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)**
+* **[Весь курс от Головача](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko)**
 
 **Дополнительный материал который может помочь:**
 
-Протокол TCP/IP, протокол HTTP (детально):
+Обзор Java EE / Обзор Java 8:
+- *[Jun#1.Feb 2014.Additional №1](https://youtube.com/playlist?list=PLoij6udfBnchI9V8WL1wbK67hfuJM9efz)*
+- *[Jun#2.Feb 2014.Additional java 8 №2](https://youtube.com/playlist?list=PLoij6udfBnchzRV3L10ECE0tTasKC7GdV)*
+
+**Протокол TCP/IP, протокол HTTP (детально) / многопоточная архитектура HTTP-сервера:**
 - *[Junior.February2014.HTTP#1 №1](https://youtube.com/playlist?list=PLoij6udfBnchmBR9V7tdSCsOdtcpPkoxo)*
 - *[Junior.February2014.HTTP#2 №2](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
 - *[Junior.February2014.HTTP#3 №3](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
 
-Servlet API (детально):
+Servlet API (детально) / Spring MVC:
 - *[Junior.February2014.Servlets#3 №1](https://youtube.com/playlist?list=PLoij6udfBncjHaO5s7Ln4w4BLj5FVc49P)*
 - *[Junior.February2014.Servlets#4 №2](https://youtube.com/playlist?list=PLoij6udfBncgN40Iu3mSn0SK8T-Ug0ByH)*
 - *[Junior.February2014.Servlets#5 №3](https://youtu.be/FCKYkh74BVY)*
 - *[Junior.February2014.Servlets#6 №4](https://youtu.be/xHKT8BUZt54)*
 
-Spring MVC:
+**Spring / Maven (детально) / Log4j (детально):**
 - *[Junior.February2014.Spring#7 №1](https://youtu.be/7Je56cl0DPE)*
 - *[Junior.February2014.Spring#8 №2](https://youtu.be/fcd6ftSLy6s)*
 
-TDD 1, JUnit:
-- *[Junior.February2014 #9](https://youtu.be/Khy4TJ1WsWc)*
+Test Driven Development: JUnit, Mockito (детально):
+- *[Junior.February2014 #9_1](https://youtu.be/Khy4TJ1WsWc)*
+- *[Junior.February2014 #9_2](https://www.youtube.com/watch?v=H88JLkYrbYE&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko&index=44)*
 
-TDD 2, Mockito:
-- *[Junior.February2014 #10](https://www.youtube.com/watch?v=H88JLkYrbYE&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko&index=44)*
-
-JDBC, connection pool (детально):
+**SQL / JDBC, connection pool (детально) / JPA 2/Hibernate:**
 - *[Junior.February2014.JDBC#9 №1](https://youtube.com/playlist?list=PLoij6udfBncijyqGvf-YLN7hAL0S6nIrG)*
 - *[Junior.February2014.JDBC#10 №2](https://youtube.com/playlist?list=PLoij6udfBncgGpXnVrDElGWoIhZMJTzr6)*
 - *[Junior.February2014.JDBC#11 №3](https://youtube.com/playlist?list=PLoij6udfBncjQ6nd4jZvelDojOLkdITDq)*
@@ -80,8 +82,36 @@ JDBC, connection pool (детально):
 OOD(SOLID)
 - *[Junior.February2014.OOD#16](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)*
 
+GOF(Шаблоны ООП):
+- *[Junior.February2014.GOF#17 №1_1](https://youtu.be/3sOIVgubyeQ)*
+- *[Junior.February2014.GOF#17 №1_2](https://youtu.be/Cp6mv2F4zPo)*
+- *[Junior.February2014.GOF#17 №1_3](https://youtu.be/BCfKV4FFMhQ)*
+- *[Junior.February2014.GOF#17 №1_4](https://youtu.be/v7FfJDYvDjQ)*
+- *[Junior.February2014.GOF#17 №1_5](https://youtu.be/BCfKV4FFMhQ)*
+- *[Junior.February2014.GOF#17 №1_6](https://youtu.be/v7FfJDYvDjQ)*
+- *[Junior.February2014.GOF#17 №1_7](https://youtu.be/mfaXG9eVIEA)*
+- *[Junior.February2014.GOF#17 №1_8](https://youtu.be/V5a0JC6DVgQ)*
+
+JSF(JavaServer Faces):
+- *[Junior.February2014.JSF#18 №1](https://youtube.com/playlist?list=PLoij6udfBncilwh6M-OUWSxef4ZP0PjdY)*
+- *[Junior.February2014.JSF#19 №2](https://youtube.com/playlist?list=PLoij6udfBnciRUejKExnW78IDLBt7ntwv)*
+- *[Junior.February2014.JSF#20 №3](https://youtube.com/playlist?list=PLoij6udfBncgtTP0V1Z5V6zJeoYmcTpG4)*
+
+WebSockets:
+- *[Junior.February2014.WebSockets #21 №1](https://youtube.com/playlist?list=PLoij6udfBncjXbiZ6pmX-chxQNjANR2Gh)*
+
+Apache Maven:
+- *[Junior.February2014.Maven#22 №1](https://youtube.com/playlist?list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM)*
+
+Log4J:
+- *[Junior.February2014.Log4J#23 №1](https://youtube.com/playlist?list=PLoij6udfBncj2KugaIbiLz9ggQzeAtA33)*
+
+JPA 2/Hibernate:
+- *[Junior.February2014.JPA2&Hibernate#24](https://youtube.com/playlist?list=PLoij6udfBnci05Oh7IRN-KU3PCjLeYtez)*
+
 Ролики на Youtube которые могут помочь:
 - *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
+
 
 
 
