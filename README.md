@@ -1,4 +1,4 @@
-# Roadmap Java developer (СНГ)
+# :scroll: Roadmap Java backend developer [СНГ]
 
 Структурированный список ресурсов для изучения Java, который поможет систематизировать занятия. Основан на личном опыте и самостоятельном изучении данной области.
 
@@ -6,35 +6,104 @@
 
 ## JAVA CORE
 Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
-* **[Java Core с нуля](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)**
-* **[Java Core продвинутый](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
-* **[Java Core детали](https://www.youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
 
-Для закрепления темы можно потренироваться решая задачи: *[CodingBat](https://codingbat.com/java)*, *[Практические задачи по Java](https://habr.com/ru/post/440436/)*, *[1000 задач на Java](https://github.com/allicen/Java-1000)*, *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*.
+:large_orange_diamond: **[Java Core с нуля №1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)**
 
-Книги - которые покрывают все особенности языка: *[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)*, *[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)*
+:large_orange_diamond: **[Java Core продвинутый №2](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
 
-Книги - для укрепления знаний и как использовать все должным образом: *[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)*, *[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)*
+:large_orange_diamond: **[Java Core детали от Головача](https://www.youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
 
-Ролики на yt которые могут помочь:
-- *[Основы работы со Stream API в Java](https://youtu.be/aC0-KsuPG0I)*
+:small_orange_diamond: Книги. Покрывают все особенности языка: **[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)**, **[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)**.
+
+:small_orange_diamond: Книги. Для укрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
+
+:small_red_triangle: Для закрепления темы можно потренироваться решая задачи: **[CodingBat](https://codingbat.com/java)**, **[Практические задачи по Java](https://habr.com/ru/post/440436/)**, **[1000 задач на Java](https://github.com/allicen/Java-1000)**, **[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)**.
+
+:large_blue_diamond: Можно еще покрыть пробелы в знаниях через конкретные [лекции Головача](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY):
+
+Java Core Процедурное программирование(детали основ), итерация, рекурсия, динамические структуры данных, память в Java:
+> *[Additional#1.Dec2013(Сети база) №1](https://youtube.com/playlist?list=PLoij6udfBncjdjKiKlnqikkIjrPLFeivp)*
+
+> *[Additional#2.SQL.Dec2013 №2](https://youtube.com/playlist?list=PLoij6udfBnchYCncZyAzZyFjTGkXIKc7B)*
+
+> *[(Итерация) Java Core December: Procedural Java. Лекция #1 №3](https://youtube.com/playlist?list=PLoij6udfBncigG7gvCLBMd3y0mR_ekCv8)*
+
+> *[(Итерация) Java Core December: Procedural Java. Лекция #2 №4](https://youtube.com/playlist?list=PLoij6udfBncjzPJ4yyysa4Fqz1BrZH3g9)*
+
+> *[(Рекурсия) Java Core December: Procedural Java. Лекция #3 №5](https://youtube.com/playlist?list=PLoij6udfBncifDy8AjaU5wcG_UDPjDSSb)*
+
+> *[(Динамические структуры данных) Java Core December: Procedural Java. Лекция #4 №6](https://youtube.com/playlist?list=PLoij6udfBncijqEUPXhY-NS0ZKWALlN0B)*
+
+> *[(Память в Java) Java Core December: Procedural Java. Лекция #5 №7](https://youtube.com/playlist?list=PLoij6udfBncilPJMzXtsOyUutDDULrtEm)*
+
+Исключения в Java, механика работы исключений, throws + checked/unchecked, иерархия исключений, классификация исключений, "устройство": message, cause, custom fields, сцепленные исключения, стратегии обработки ошибок, try-with-resources (+ suppressed exceptions), multi-catch (+ more precise rethrow):
+> *[(Основы иключения) Java Core December: Exceptions. Лекция #6 №1](https://youtube.com/playlist?list=PLoij6udfBncilVuX_R0sBrESIlyfQWVjm)*
+
+> *[(try-with-resources, иерархия) Java Core December: Exceptions. Лекция #7 №2](https://youtube.com/playlist?list=PLoij6udfBnchbxh8ZAY-FPlmj97aCILTY)*
+
+> *[(checked/unchecked, иерархия) Java Core December: Exceptions. Лекция #8 №3](https://youtube.com/playlist?list=PLoij6udfBncjLoxagaF5tGsDp-0XKMyhc)*
+
+> *[() Java Core December: Exceptions. Лекция #9 №4](https://youtube.com/playlist?list=PLoij6udfBnchR-Cc-RB4EUZokLrLlIuWQ)*
+
+Java I/O, byte-ориентированные потоки, char-ориентированные потоки, java-type-ориентированные потоки(классы-адаптеры, классы-декораторы, работа с файловой системой, сериализация и клонирование)
+> *[(кодировка) Java Core December: IO. Лекция #10 №1](https://youtube.com/playlist?list=PLoij6udfBncidoWbNwteMhqkE_uxcnWP1)*
+
+> *[(адаптеры/декораторы) Java Core December: IO. Лекция #11 №2](https://youtube.com/playlist?list=PLoij6udfBnchhzsjZkAbhW-V1K5dM-_Xf)*
+
+> *[(адаптеры/декораторы) Java Core December: IO. Лекция #12 №3](https://youtube.com/playlist?list=PLoij6udfBncgBHx7HxK8gAxV-oqT_pOob)*
+
+Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collection API (general), List/ArrayList/LinkedList, Set/List/Map/SortedSet/SortedMap, HashSet/HashMap/hashCode()/equals(), TreeSet/TreeMap/Comparable/Comparator, Collection API (detailed)):
+> *[Java Core December:Collections API. Лекция #13 №1](https://youtube.com/playlist?list=PLoij6udfBncjiXKA5ce0hi4b4DIvGymeo)*
+
+> *[(дженерикс) Java Core December:Collections API. Лекция #14 №2](https://youtube.com/playlist?list=PLoij6udfBnciAPeXh5oOGBsQ2c8GlEFu0)*
+
+Продолжение Java IO, Стримы, адаптер/декоратор, клонирование, файловая система:
+> *[Java Core December: IO. Лекция #15 №4](https://youtube.com/playlist?list=PLoij6udfBnci29otnZedLq6x-EPlx3I4f)*
+
+Продолжение Java Collection:
+> *[(нотации О, equals list, сд хеш сет, мап и тд.) Java Core December: Collections. Лекция #16 №3](https://youtube.com/playlist?list=PLoij6udfBncgIlUdvGNtG2Jp7gXbDMx15)*
+
+> *[(хеш сет и хеш мап, структуры данных) Java Core December: Collections. Лекция #17 №4](https://youtube.com/playlist?list=PLoij6udfBncjAZTDf6Vx281R5Y9mnm93q)*
+
+Многопоточность(введение, Thread/Runnable run(), start(), join(), currentThread(), Модель памяти джавы, монитор, synchronized и многое другое, прерывание потока):
+> *[Java Core December: Multithreading. Лекция#18 №1](https://youtube.com/playlist?list=PLoij6udfBncgjoaFqWZSh3L-THigDum7g)*
+
+> *[Java Core December: Multithreading. Лекция#19 №2](https://youtu.be/Y0OaihQCFpg)*
+
+> *[(монитор) Java Core December: Multithreading. Лекция#20 №3](https://youtu.be/8rdrpSSV-wg)*
+
+Объектно-ориентированная Java(конструирование объекта, методы класса Object, перегрузка метода (overload), переопределение метода (overriding), и тд):
+> *[(конструирование объекта) Java Core December: OOP. Лекция#21 №1](https://youtu.be/150u5ofBzhc)*
+
+> *[Java Core December: OOP. Лекция#22 №2](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)*
+
+> *[(nested/inner) Java Core December: OOP. Лекция#23 №3](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)*
+
+> *[(singleton,enom,multiton) Java Core December: OOP. Лекция#24 №4](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)*
+
+> *[(gof, uml и тд)Java Core December: OOP. Лекция#25 №5](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)*
+
+:small_blue_diamond: Ролики на Youtube которые могут помочь:
+> *[Основы работы со Stream API в Java](https://youtu.be/aC0-KsuPG0I)*
 
 
 
 ## ALGORYTHMS & DATA STRUCTURES
 Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
 
-* **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
+:large_orange_diamond: **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
 
-Практика алгоритмов и сд: 
+:large_orange_diamond: **Практика**: 
 - вариант 1: заходим на сайт **[LeetCode](https://leetcode.com/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
-- вариант 2: (читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину)).
-- вариант 3: (решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*) или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*).
+- вариант 2: читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину).
+- вариант 3: решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*.
 
-Ролики на Youtube которые могут помочь: 
-- *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
-- *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
-- *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
+:small_blue_diamond: Ролики на Youtube которые могут помочь: 
+> *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
+
+> *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
+
+> *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
 
 
 
