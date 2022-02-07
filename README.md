@@ -88,6 +88,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
 ## ALGORYTHMS & DATA STRUCTURES
 Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
 
@@ -107,81 +108,176 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
-## SQL & JDBC
-* **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
-* **[JDBC: Введение в JDBC](https://youtu.be/7LwOvVPavWA)**
-* **[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)**
-* **[Практический курс для новичков](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)**
-* **[Весь курс от Головача](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko)**
 
-**Дополнительный материал который может помочь:**
+## SQL & JDBC
+:large_orange_diamond: **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
+
+:large_orange_diamond: **[JDBC: Введение в JDBC](https://youtu.be/7LwOvVPavWA)**
+
+:large_orange_diamond: **Практика**:
+Чтобы потренироватся, нужно взять пару задач на sql и написать прогу на джава которая будет входить в вашу собственную бд и выполнять там нужные запросы.
+- **[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)**
+- **[SQL Academy.org](https://sql-academy.org/ru)**
+
+:small_blue_diamond: Ролики на Youtube которые могут помочь:
+> *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
+
+
+
+
+## HTTP & SERVLETS
+:large_orange_diamond: **[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)**
+
+:large_orange_diamond: **Практика**:
+По прохождению курса что выше мы напишем простой сайт, просто стоит повторить написанное за автором. Затем можно добавить свои собственные сервлеты с дополнительной логикой. Также можно добавить свою базу данных, чтобы потренироваться в SQL & JDBC.
+
+
+
+
+## MAVEN & GRADLE
+:large_orange_diamond: **[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)**
+
+:large_orange_diamond: **[Мавен основы на хабре](https://habr.com/ru/post/77382/)**
+
+:large_orange_diamond: **[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)**
+
+:large_orange_diamond: **[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)**
+
+
+
+
+## SPRING
+Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
+
+:large_orange_diamond: **[Гайд от алишиева](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
+
+:large_orange_diamond: **[Гайд от самого спринга](http://spring-projects.ru/projects/spring-framework/)**
+
+:large_orange_diamond: **[Статья на хабре о Спринге](https://habr.com/ru/post/490586/)**
+
+:large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
+
+:large_orange_diamond: **Практика**:
+Написать вместе с алишиевом веб приложение и добавить туда свою логику.
+
+
+
+
+## JPA & HIBERNATE
+Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию jpf), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
+* поискать курсы на эту тему
+
+:large_orange_diamond: **[Статьи Java Persistence API](https://easyjava.ru/data/jpa/)**
+
+:large_orange_diamond: **[Learn JPA & Hibernate](https://www.baeldung.com/learn-jpa-hibernate)**
+
+:large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/hibernate-tutorial/)**
+
+
+
+## TESTING
+Позволяет убедиться, что вы не допустили ошибку при написании программы. Это как бы набор маленьких программ на Java, которые проверяют правильность вашей основной программы. Также гарантируют, что будущие изменения кода программы не затронут старую логику. Таким образом вы всегда будете уверены, что ничего не сломали. Это серьезно ускоряет разработку, т.к. вам не приходится каждый раз проверять потенциальные баги. **Junit**(Java фреймворк для написания тестов самых разных видов), **Integration**(прекрасно работает в паре с другими фреймворками, например Spring).
+* Стоит просто разобратся какие бывают виды тестов на джава, как их писать на Junit, что такое моки и тд.
+
+:large_orange_diamond: **[Статьи на javarash](https://javarush.ru/groups/posts/605-junit)**
+
+:large_orange_diamond: **[Habr Инструменты тестирования Java](https://habr.com/ru/company/otus/blog/596033/)**
+
+:large_orange_diamond: **[Habr Тестирование в Java. JUnit](https://habr.com/ru/post/120101/)**
+
+:large_orange_diamond: **[Гайд от Жени](https://proselyte.net/tutorials/junit/)**
+
+
+
+
+##
+:large_blue_diamond: Пробелы в знаниях **SQL & JDBC | HTTP & SERVLETS | MAVEN & GRADLE | SPRING | JPA & HIBERNATE | TESTING** можно покрыть через следующие [лекции от Головача](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko):
 
 Обзор Java EE / Обзор Java 8:
-- *[Jun#1.Feb 2014.Additional №1](https://youtube.com/playlist?list=PLoij6udfBnchI9V8WL1wbK67hfuJM9efz)*
-- *[Jun#2.Feb 2014.Additional java 8 №2](https://youtube.com/playlist?list=PLoij6udfBnchzRV3L10ECE0tTasKC7GdV)*
+> *[Jun#1.Feb 2014.Additional №1](https://youtube.com/playlist?list=PLoij6udfBnchI9V8WL1wbK67hfuJM9efz)*
+
+> *[Jun#2.Feb 2014.Additional java 8 №2](https://youtube.com/playlist?list=PLoij6udfBnchzRV3L10ECE0tTasKC7GdV)*
 
 **Протокол TCP/IP, протокол HTTP (детально) / многопоточная архитектура HTTP-сервера:**
-- *[Junior.February2014.HTTP#1 №1](https://youtube.com/playlist?list=PLoij6udfBnchmBR9V7tdSCsOdtcpPkoxo)*
-- *[Junior.February2014.HTTP#2 №2](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
-- *[Junior.February2014.HTTP#3 №3](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
+> *[Junior.February2014.HTTP#1 №1](https://youtube.com/playlist?list=PLoij6udfBnchmBR9V7tdSCsOdtcpPkoxo)*
+
+> *[Junior.February2014.HTTP#2 №2](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
+
+> *[Junior.February2014.HTTP#3 №3](https://youtube.com/playlist?list=PLoij6udfBncgYO5FS9U-DcBQlix8FF2Q8)*
 
 Servlet API (детально) / Spring MVC:
-- *[Junior.February2014.Servlets#3 №1](https://youtube.com/playlist?list=PLoij6udfBncjHaO5s7Ln4w4BLj5FVc49P)*
-- *[Junior.February2014.Servlets#4 №2](https://youtube.com/playlist?list=PLoij6udfBncgN40Iu3mSn0SK8T-Ug0ByH)*
-- *[Junior.February2014.Servlets#5 №3](https://youtu.be/FCKYkh74BVY)*
-- *[Junior.February2014.Servlets#6 №4](https://youtu.be/xHKT8BUZt54)*
+> *[Junior.February2014.Servlets#3 №1](https://youtube.com/playlist?list=PLoij6udfBncjHaO5s7Ln4w4BLj5FVc49P)*
+
+> *[Junior.February2014.Servlets#4 №2](https://youtube.com/playlist?list=PLoij6udfBncgN40Iu3mSn0SK8T-Ug0ByH)*
+
+> *[Junior.February2014.Servlets#5 №3](https://youtu.be/FCKYkh74BVY)*
+
+> *[Junior.February2014.Servlets#6 №4](https://youtu.be/xHKT8BUZt54)*
 
 **Spring / Maven (детально) / Log4j (детально):**
-- *[Junior.February2014.Spring#7 №1](https://youtu.be/7Je56cl0DPE)*
-- *[Junior.February2014.Spring#8 №2](https://youtu.be/fcd6ftSLy6s)*
+> *[Junior.February2014.Spring#7 №1](https://youtu.be/7Je56cl0DPE)*
+
+> *[Junior.February2014.Spring#8 №2](https://youtu.be/fcd6ftSLy6s)*
 
 Test Driven Development: JUnit, Mockito (детально):
-- *[Junior.February2014 #9_1](https://youtu.be/Khy4TJ1WsWc)*
-- *[Junior.February2014 #9_2](https://www.youtube.com/watch?v=H88JLkYrbYE&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko&index=44)*
+> *[Junior.February2014 #9_1](https://youtu.be/Khy4TJ1WsWc)*
+
+> *[Junior.February2014 #9_2](https://www.youtube.com/watch?v=H88JLkYrbYE&list=PLoij6udfBncioun9-sBwpkpTit1SIhWko&index=44)*
 
 **SQL / JDBC, connection pool (детально) / JPA 2/Hibernate:**
-- *[Junior.February2014.JDBC#9 №1](https://youtube.com/playlist?list=PLoij6udfBncijyqGvf-YLN7hAL0S6nIrG)*
-- *[Junior.February2014.JDBC#10 №2](https://youtube.com/playlist?list=PLoij6udfBncgGpXnVrDElGWoIhZMJTzr6)*
-- *[Junior.February2014.JDBC#11 №3](https://youtube.com/playlist?list=PLoij6udfBncjQ6nd4jZvelDojOLkdITDq)*
-- *[Junior.February2014.JDBC#12 №4](https://youtube.com/playlist?list=PLoij6udfBncgy-PDoYGvxyZ5L5GnqV_2R)*
-- *[Junior.February2014.JDBC#13 №5](https://youtube.com/playlist?list=PLoij6udfBncjY0jx7t8Sc-V_qoNZM5gAu)*
-- *[Junior.February2014.JDBC#14 №6](https://youtube.com/playlist?list=PLoij6udfBncigW-7YJku0LlQTDlMwmL33)*
-- *[Junior.February2014.JDBC#15 №7](https://youtube.com/playlist?list=PLoij6udfBncj5beNvOYxtPhOkAPKVYnFz)*
+> *[Junior.February2014.JDBC#9 №1](https://youtube.com/playlist?list=PLoij6udfBncijyqGvf-YLN7hAL0S6nIrG)*
+
+> *[Junior.February2014.JDBC#10 №2](https://youtube.com/playlist?list=PLoij6udfBncgGpXnVrDElGWoIhZMJTzr6)*
+
+> *[Junior.February2014.JDBC#11 №3](https://youtube.com/playlist?list=PLoij6udfBncjQ6nd4jZvelDojOLkdITDq)*
+
+> *[Junior.February2014.JDBC#12 №4](https://youtube.com/playlist?list=PLoij6udfBncgy-PDoYGvxyZ5L5GnqV_2R)*
+
+> *[Junior.February2014.JDBC#13 №5](https://youtube.com/playlist?list=PLoij6udfBncjY0jx7t8Sc-V_qoNZM5gAu)*
+
+> *[Junior.February2014.JDBC#14 №6](https://youtube.com/playlist?list=PLoij6udfBncigW-7YJku0LlQTDlMwmL33)*
+
+> *[Junior.February2014.JDBC#15 №7](https://youtube.com/playlist?list=PLoij6udfBncj5beNvOYxtPhOkAPKVYnFz)*
 
 OOD(SOLID)
-- *[Junior.February2014.OOD#16](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)*
+> *[Junior.February2014.OOD#16](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)*
 
 GOF(Шаблоны ООП):
-- *[Junior.February2014.GOF#17 №1_1](https://youtu.be/3sOIVgubyeQ)*
-- *[Junior.February2014.GOF#17 №1_2](https://youtu.be/Cp6mv2F4zPo)*
-- *[Junior.February2014.GOF#17 №1_3](https://youtu.be/BCfKV4FFMhQ)*
-- *[Junior.February2014.GOF#17 №1_4](https://youtu.be/v7FfJDYvDjQ)*
-- *[Junior.February2014.GOF#17 №1_5](https://youtu.be/BCfKV4FFMhQ)*
-- *[Junior.February2014.GOF#17 №1_6](https://youtu.be/v7FfJDYvDjQ)*
-- *[Junior.February2014.GOF#17 №1_7](https://youtu.be/mfaXG9eVIEA)*
-- *[Junior.February2014.GOF#17 №1_8](https://youtu.be/V5a0JC6DVgQ)*
+> *[Junior.February2014.GOF#17 №1_1](https://youtu.be/3sOIVgubyeQ)*
+
+> *[Junior.February2014.GOF#17 №1_2](https://youtu.be/Cp6mv2F4zPo)*
+
+> *[Junior.February2014.GOF#17 №1_3](https://youtu.be/BCfKV4FFMhQ)*
+
+> *[Junior.February2014.GOF#17 №1_4](https://youtu.be/v7FfJDYvDjQ)*
+
+> *[Junior.February2014.GOF#17 №1_5](https://youtu.be/BCfKV4FFMhQ)*
+
+> *[Junior.February2014.GOF#17 №1_6](https://youtu.be/v7FfJDYvDjQ)*
+
+> *[Junior.February2014.GOF#17 №1_7](https://youtu.be/mfaXG9eVIEA)*
+
+> *[Junior.February2014.GOF#17 №1_8](https://youtu.be/V5a0JC6DVgQ)*
 
 JSF(JavaServer Faces):
-- *[Junior.February2014.JSF#18 №1](https://youtube.com/playlist?list=PLoij6udfBncilwh6M-OUWSxef4ZP0PjdY)*
-- *[Junior.February2014.JSF#19 №2](https://youtube.com/playlist?list=PLoij6udfBnciRUejKExnW78IDLBt7ntwv)*
-- *[Junior.February2014.JSF#20 №3](https://youtube.com/playlist?list=PLoij6udfBncgtTP0V1Z5V6zJeoYmcTpG4)*
+> *[Junior.February2014.JSF#18 №1](https://youtube.com/playlist?list=PLoij6udfBncilwh6M-OUWSxef4ZP0PjdY)*
+
+> *[Junior.February2014.JSF#19 №2](https://youtube.com/playlist?list=PLoij6udfBnciRUejKExnW78IDLBt7ntwv)*
+
+> *[Junior.February2014.JSF#20 №3](https://youtube.com/playlist?list=PLoij6udfBncgtTP0V1Z5V6zJeoYmcTpG4)*
 
 WebSockets:
-- *[Junior.February2014.WebSockets #21 №1](https://youtube.com/playlist?list=PLoij6udfBncjXbiZ6pmX-chxQNjANR2Gh)*
+> *[Junior.February2014.WebSockets #21 №1](https://youtube.com/playlist?list=PLoij6udfBncjXbiZ6pmX-chxQNjANR2Gh)*
 
 Apache Maven:
-- *[Junior.February2014.Maven#22 №1](https://youtube.com/playlist?list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM)*
+> *[Junior.February2014.Maven#22 №1](https://youtube.com/playlist?list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM)*
 
 Log4J:
-- *[Junior.February2014.Log4J#23 №1](https://youtube.com/playlist?list=PLoij6udfBncj2KugaIbiLz9ggQzeAtA33)*
+> *[Junior.February2014.Log4J#23 №1](https://youtube.com/playlist?list=PLoij6udfBncj2KugaIbiLz9ggQzeAtA33)*
 
 JPA 2/Hibernate:
-- *[Junior.February2014.JPA2&Hibernate#24](https://youtube.com/playlist?list=PLoij6udfBnci05Oh7IRN-KU3PCjLeYtez)*
-
-Ролики на Youtube которые могут помочь:
-- *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
-
-
+> *[Junior.February2014.JPA2&Hibernate#24](https://youtube.com/playlist?list=PLoij6udfBnci05Oh7IRN-KU3PCjLeYtez)*
+##
 
 
 
