@@ -119,8 +119,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 - **[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)**
 - **[SQL Academy.org](https://sql-academy.org/ru)**
 
-:small_blue_diamond: Ролики на Youtube которые могут помочь:
-> *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
+
 
 
 
@@ -130,6 +129,9 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **Практика**:
 По прохождению курса что выше мы напишем простой сайт, просто стоит повторить написанное за автором. Затем можно добавить свои собственные сервлеты с дополнительной логикой. Также можно добавить свою базу данных, чтобы потренироваться в SQL & JDBC.
+
+:small_blue_diamond: Ролики на Youtube которые могут помочь:
+> *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
 
 
 
