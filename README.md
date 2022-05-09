@@ -151,7 +151,13 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 ## SPRING
 Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
 
-:large_orange_diamond: **[Гайд от алишиева](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
+:large_orange_diamond: **[Гайд от алишиева Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
+
+:large_orange_diamond: **[Гайд на канале letsCode Spring Boot MVC](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
+
+:large_orange_diamond: **[Гайд на канале letsCode Spring Boot Rest](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
+
+:large_orange_diamond: **[Гайд на канале letsCode Spring Boot + Webix](https://www.youtube.com/playlist?list=PLU2ftbIeotGqnwHMFZQz-FrI9w_KGZlw9)** 
 
 :large_orange_diamond: **[Гайд от самого спринга](http://spring-projects.ru/projects/spring-framework/)**
 
