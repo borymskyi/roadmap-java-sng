@@ -4,6 +4,7 @@
 
 
 
+
 ## JAVA CORE
 Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
 
@@ -89,6 +90,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
 ## ALGORYTHMS & DATA STRUCTURES
 Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
 
@@ -105,6 +108,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 > *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
 
 > *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
+
+
 
 
 
@@ -136,6 +141,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
 ## MAVEN & GRADLE
 :large_orange_diamond: **[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)**
 
@@ -144,6 +151,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 :large_orange_diamond: **[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)**
 
 :large_orange_diamond: **[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)**
+
+
 
 
 
@@ -166,7 +175,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 :large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
 
 :large_orange_diamond: **Практика**:
-Написать вместе с алишиевом веб приложение и добавить туда свою логику.
+Написать веб приложение вместе с **[letsCode](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)** / **[alishev](https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)** и добавить туда свою логику.
+
 
 
 
@@ -183,6 +193,9 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
+
 ## TESTING
 Позволяет убедиться, что вы не допустили ошибку при написании программы. Это как бы набор маленьких программ на Java, которые проверяют правильность вашей основной программы. Также гарантируют, что будущие изменения кода программы не затронут старую логику. Таким образом вы всегда будете уверены, что ничего не сломали. Это серьезно ускоряет разработку, т.к. вам не приходится каждый раз проверять потенциальные баги. **Junit**(Java фреймворк для написания тестов самых разных видов), **Integration**(прекрасно работает в паре с другими фреймворками, например Spring).
 * Стоит просто разобратся какие бывают виды тестов на джава, как их писать на Junit, что такое моки и тд.
@@ -194,6 +207,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 :large_orange_diamond: **[Habr Тестирование в Java. JUnit](https://habr.com/ru/post/120101/)**
 
 :large_orange_diamond: **[Гайд от Жени](https://proselyte.net/tutorials/junit/)**
+
+
 
 
 
@@ -290,6 +305,8 @@ JPA 2/Hibernate:
 
 
 
+
+
 ### Или карта по пунктам
 * **ООП**
 * **Object** *(знать методы этого класса)*
@@ -317,11 +334,13 @@ JPA 2/Hibernate:
 * **Git** *(хватит базы, уметь использовать на практике)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[немного подробнее](https://proselyte.net/tutorials/git/introduction/)*
 
+
 ### После подготовка к работе
 * **Как найти первую работу в it:** *[Немчинский, что делать после завершения обучения](https://youtu.be/oLZuCGuAnsM)*
 * **Резюме на английском:** *[Немчинский, как писать резюме](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[GitHub как резюме программиста](https://youtu.be/nEnuP2NmMA4)*
 * **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
 * **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
+
 
 ## Дополнительный материал
 - Разное:
@@ -335,6 +354,7 @@ JPA 2/Hibernate:
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
   - *[Годный плагин для Идеи, он заставляет тебя придерживаться чистому стилю письма](https://youtu.be/yrldX6dIS_4)*
 - Интересные yt каналы:
+  - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[Golovach Courses](https://www.youtube.com/user/KharkovITCourses)*
