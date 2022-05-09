@@ -332,7 +332,7 @@ JPA 2/Hibernate:
 * **Spring** *(базовые знания)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 * **Git** *(хватит базы, уметь использовать на практике)*
-  - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[немного подробнее](https://proselyte.net/tutorials/git/introduction/)*
+  - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
 
 ### После подготовка к работе
