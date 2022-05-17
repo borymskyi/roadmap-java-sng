@@ -5,6 +5,27 @@
 
 
 
+
+
+
+
+## Содержание
+* [JAVA CORE](#java-core)
+* [ALGORYTHMS & DATA STRUCTURES](#algorythms--data-structures)
+* [SQL & JDBC](#sql--jdbc)
+* [HTTP & SERVLETS](#http--servlets)
+* [MAVEN & GRADLE](#maven--gradle)
+* [SPRING](#spring)
+* [JPA & HIBERNATE](#jpa--hibernate)
+* [TESTING](#testing)
+
+
+
+
+
+
+
+
 ## JAVA CORE
 Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
 
@@ -92,6 +113,9 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
+
 ## ALGORYTHMS & DATA STRUCTURES
 Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
 
@@ -114,6 +138,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
 ## SQL & JDBC
 :large_orange_diamond: **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
 
@@ -123,6 +149,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 Чтобы потренироватся, нужно взять пару задач на sql и написать прогу на джава которая будет входить в вашу собственную бд и выполнять там нужные запросы.
 - **[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)**
 - **[SQL Academy.org](https://sql-academy.org/ru)**
+
+
 
 
 
@@ -143,6 +171,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
 ## MAVEN & GRADLE
 :large_orange_diamond: **[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)**
 
@@ -151,6 +181,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 :large_orange_diamond: **[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)**
 
 :large_orange_diamond: **[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)**
+
+
 
 
 
@@ -176,6 +208,9 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **Практика**:
 Написать веб приложение вместе с **[letsCode](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)** / **[alishev](https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)** и добавить туда свою логику.
+
+
+
 
 
 
