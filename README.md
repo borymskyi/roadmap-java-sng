@@ -345,8 +345,8 @@ JPA 2/Hibernate:
 ### Или карта по пунктам
 * **ООП**
 * **Object** *(знать методы этого класса)*
-* **Exception** *(логирование, ловля их, обработка в логи)*
-* **Collections** **_(больше всего спрашивают, надо очень подробно знать!)_**
+* **Exception** *(**логирование**, ловля их, обработка в логи)*
+* **Collections** **_(больше всего спрашивают, надо очень подробно знать)_**
   - *[ссылка на плейлист Головача по коллекциям](https://youtube.com/playlist?list=PLoij6udfBncgj3VbXvJxUIZOnFFHMv7os)*
   - *[ссылка на плейлист с теорией по коллекциям](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)*
 * **Generics** *(как применять, как он работает).*
@@ -371,10 +371,10 @@ JPA 2/Hibernate:
 
 
 ### После подготовка к работе
+* **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
 * **Как найти первую работу в it:** *[Немчинский, что делать после завершения обучения](https://youtu.be/oLZuCGuAnsM)*
 * **Резюме на английском:** *[Немчинский, как писать резюме](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[GitHub как резюме программиста](https://youtu.be/nEnuP2NmMA4)*
 * **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
-* **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
 
 
 ## Дополнительный материал
