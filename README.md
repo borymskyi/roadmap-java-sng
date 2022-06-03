@@ -18,6 +18,7 @@
 * [SPRING](#spring)
 * [JPA & HIBERNATE](#jpa--hibernate)
 * [TESTING](#testing)
+* [Дополнительный материал](#дополнительный-материал)
 
 
 
@@ -377,7 +378,7 @@ JPA 2/Hibernate:
 * **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
 
 
-## Дополнительный материал
+### Дополнительный материал
 - Разное:
   - *[Е.Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
   - *[Краткие гайды от Жени](https://proselyte.net/tutorials/)*
