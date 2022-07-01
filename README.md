@@ -146,7 +146,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
 
-:large_orange_diamond: **[JDBC: Введение в JDBC](https://youtu.be/7LwOvVPavWA)**
+:large_orange_diamond: **[JDBC: Введение в JDBC](https://youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)**
 
 :large_orange_diamond: **Практика**:
 Чтобы потренироватся, нужно взять пару задач на sql и написать прогу на джава которая будет входить в вашу собственную бд и выполнять там нужные запросы.
