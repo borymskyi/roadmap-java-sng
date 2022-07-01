@@ -142,6 +142,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 ## SQL & JDBC
+:large_orange_diamond: **[Для начинающих, основы SQL](https://youtu.be/IK6e1SFCdow)**
+
 :large_orange_diamond: **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
 
 :large_orange_diamond: **[JDBC: Введение в JDBC](https://youtu.be/7LwOvVPavWA)**
