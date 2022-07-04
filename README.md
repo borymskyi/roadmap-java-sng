@@ -197,6 +197,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **[Гайд от алишева Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
 
+:large_orange_diamond: **[Простой пример Spring Boot приложение, практикуються темы: MVC, REST API, Flyway, бд, миграция бд](https://youtu.be/q87Xxu4NPIc)**
+
 :large_orange_diamond: **[Гайд на канале letsCode Spring Boot MVC](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
 
 :large_orange_diamond: **[Гайд на канале letsCode Spring Boot Rest](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
