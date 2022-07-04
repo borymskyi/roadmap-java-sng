@@ -195,24 +195,20 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 ## SPRING
 Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
 
-:large_orange_diamond: **[Гайд от алишева Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
+:large_orange_diamond: **[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
 
-:large_orange_diamond: **[Простой пример Spring Boot приложение, практикуються темы: MVC, REST API, Flyway, бд, миграция бд](https://youtu.be/q87Xxu4NPIc)**
+:large_orange_diamond: **[Статья на хабре механике Spring Framework и MVC](https://habr.com/ru/post/490586/)**
 
-:large_orange_diamond: **[Гайд на канале letsCode Spring Boot MVC](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
+:large_orange_diamond: **[Простой пример Spring Boot приложение, охвачены темы: MVC, REST API, Flyway(миграция бд), хранение данных в бд](https://youtu.be/q87Xxu4NPIc)**
 
-:large_orange_diamond: **[Гайд на канале letsCode Spring Boot Rest](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
+:large_orange_diamond: **[LetsCode Spring Boot проект](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
 
-:large_orange_diamond: **[Гайд на канале letsCode Spring Boot + Webix](https://www.youtube.com/playlist?list=PLU2ftbIeotGqnwHMFZQz-FrI9w_KGZlw9)** 
-
-:large_orange_diamond: **[Гайд от самого спринга](http://spring-projects.ru/projects/spring-framework/)**
-
-:large_orange_diamond: **[Статья на хабре о Спринге](https://habr.com/ru/post/490586/)**
+:large_orange_diamond: **[LetsCode Spring Boot + Vue.js проект](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
 
 :large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
 
 :large_orange_diamond: **Практика**:
-Написать веб приложение вместе с **[letsCode](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)** / **[alishev](https://www.youtube.com/watch?v=5ePo08sqcpk&list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)** и добавить туда свою логику.
+Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
 
 
 
