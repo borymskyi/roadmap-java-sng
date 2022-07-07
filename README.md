@@ -38,7 +38,7 @@
 
 :small_orange_diamond: Книги. Покрывают все особенности языка: **[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)**, **[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)**.
 
-:small_orange_diamond: Книги. Для укрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
+:small_orange_diamond: Книги. Для закрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
 
 :small_red_triangle: Для закрепления темы можно потренироваться решая задачи: **[CodingBat](https://codingbat.com/java)**, **[Практические задачи по Java](https://habr.com/ru/post/440436/)**, **[1000 задач на Java](https://github.com/allicen/Java-1000)**, **[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)**.
 
@@ -205,10 +205,14 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **[LetsCode Spring Boot + Vue.js проект](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
 
-:large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
+:large_orange_diamond: **[Руководство от Жени по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
 
-:large_orange_diamond: **Практика**:
+:small_red_triangle: **Практика**:
 Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
+
+Так же на данном этапе будет хорошим тоном понимать принципы проектирование такие как: SOLID, MVC:
+
+:large_orange_diamond: **[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)**
 
 
 
