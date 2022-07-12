@@ -30,22 +30,20 @@
 ## JAVA CORE
 Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
 
-:large_orange_diamond: **[Java Core с нуля №1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)**
+:large_orange_diamond: Java Core с нуля *[Link 1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle) | [Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_rqruGcnd2V8SPbY0j9DzT5)*
 
-:large_orange_diamond: **[Java Core продвинутый №2](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
+:large_orange_diamond: Java Core продвинутый *[Link 1](https://coursehunter.net/course/java-poluchi-chernyy-poyas) | [Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)*
 
-:small_orange_diamond: Книги. По усмотрению. Покрывают все особенности языка: **[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)**, **[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)**.
+:small_orange_diamond: Книги. Покрывают все особенности языка: *[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf), [Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf), [Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)*.
 
-:small_orange_diamond: Книги. По усмотрению. Для закрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
-
-:small_red_triangle: **Практика**: 
-- **[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)**
-- или есть неплохие альтернативы **[CodingBat](https://codingbat.com/java)**, **[Практические задачи по Java](https://habr.com/ru/post/440436/)**, **[1000 задач на Java](https://github.com/allicen/Java-1000)**.
+:small_red_triangle: Практика: 
+- *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)*
+- или *[CodingBat](https://codingbat.com/java)*, *[Практические задачи по Java](https://habr.com/ru/post/440436/)*, *[1000 задач на Java](https://github.com/allicen/Java-1000)*.
 
 <details>
 <summary> :small_blue_diamond: Лекции которые покрывают пробелы в знаниях </summary>
 
-**[Ссылка на лекции](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
+*[Link на лекции](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)*
 
 Java Core Процедурное программирование(детали основ), итерация, рекурсия, динамические структуры данных, память в Java:
 > *[Additional#1.Dec2013(Сети база) №1](https://youtube.com/playlist?list=PLoij6udfBncjdjKiKlnqikkIjrPLFeivp)*
@@ -123,8 +121,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
 
-:small_red_triangle: **Практика**: 
-- вариант 1: заходим на сайт **[LeetCode](https://leetcode.com/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
+:small_red_triangle: Практика: 
+- вариант 1: заходим на сайт *[LeetCode](https://leetcode.com/)* -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
 - вариант 2: читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину).
 - вариант 3: решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*.
 
@@ -145,16 +143,16 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 ## SQL & JDBC
-:large_orange_diamond: **[Для начинающих, основы SQL](https://youtu.be/IK6e1SFCdow)**
+:large_orange_diamond: *[Для начинающих, основы SQL](https://youtu.be/IK6e1SFCdow)*
 
-:large_orange_diamond: **[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)**
+:large_orange_diamond: *[Базы данных SQL | Основы SQL](https://youtu.be/uGKIXTUjZbc)*
 
-:large_orange_diamond: **[JDBC: Введение в JDBC](https://youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)**
+:small_orange_diamond: *[JDBC: Введение в JDBC](https://youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)*
 
-:small_red_triangle: **Практика**:
+:small_red_triangle: Практика:
 Чтобы потренироватся, нужно взять пару задач на sql и написать прогу на джава которая будет входить в вашу собственную бд и выполнять там нужные запросы.
-- **[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)**
-- **[SQL Academy.org](https://sql-academy.org/ru)**
+- *[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)*
+- *[SQL Academy.org](https://sql-academy.org/ru)*
 
 
 
@@ -164,7 +162,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 ## HTTP & SERVLETS
-:large_orange_diamond: **[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)**
+:large_orange_diamond: *[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)*
 
 :small_red_triangle: **Практика**:
 По прохождению курса что выше мы напишем простой сайт, просто стоит повторить написанное за автором. Затем можно добавить свои собственные сервлеты с дополнительной логикой. Также можно добавить свою базу данных, чтобы потренироваться в SQL & JDBC.
@@ -185,13 +183,13 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 ## MAVEN & GRADLE
-:large_orange_diamond: **[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)**
+:small_orange_diamond: *[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)*
 
-:large_orange_diamond: **[Мавен основы на хабре](https://habr.com/ru/post/77382/)**
+:small_orange_diamond: *[Мавен основы на хабре](https://habr.com/ru/post/77382/)*
 
-:large_orange_diamond: **[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)**
+:small_orange_diamond: *[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)*
 
-:large_orange_diamond: **[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)**
+:small_orange_diamond: *[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)*
 
 
 
@@ -203,28 +201,28 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 ## SPRING
 Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
 
-:large_orange_diamond: **[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)**
+:large_orange_diamond: *[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)*
 
-:large_orange_diamond: **[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
+:large_orange_diamond: *[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)*
 
-:large_orange_diamond: **[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
+:large_orange_diamond: *[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 
-:large_orange_diamond: **[Простой пример Spring Boot app, охвачены темы: MVC, REST API, Flyway](https://youtu.be/q87Xxu4NPIc)**
+:large_orange_diamond: *[Простой пример Spring Boot app, охвачены темы: MVC, REST API, Flyway](https://youtu.be/q87Xxu4NPIc)*
 
-:large_orange_diamond: **[Spring Boot pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
+:large_orange_diamond: *[Spring Boot pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)*
 
-:large_orange_diamond: **[Spring Boot + Vue.js pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
+:large_orange_diamond: *[Spring Boot + Vue.js pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)*
 
-:small_red_triangle: **Практика**:
+:small_red_triangle: Практика:
 Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
 
 Так же на данном этапе будет хорошим тоном понимать правила/принципы/подходы/стили проектирования такие как: The Clean Architecture, REST, SOLID, MVC:
 
-:large_orange_diamond: **[Принципы Чистой Архитектуры от Дяди Боба](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**
+:large_orange_diamond: *[Принципы Чистой Архитектуры от Дяди Боба](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)*
 
-:large_orange_diamond: **[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)**
+:large_orange_diamond: *[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)*
 
-:large_orange_diamond: **[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)**
+:large_orange_diamond: *[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)*
 
 
 
@@ -235,13 +233,12 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 ## JPA & HIBERNATE
 Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию jpf), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
-* поискать курсы на эту тему
 
-:large_orange_diamond: **[Статьи Java Persistence API](https://easyjava.ru/data/jpa/)**
+:large_orange_diamond: *[Статьи Java Persistence API](https://easyjava.ru/data/jpa/)*
 
-:large_orange_diamond: **[Learn JPA & Hibernate](https://www.baeldung.com/learn-jpa-hibernate)**
+:large_orange_diamond: *[Learn JPA & Hibernate](https://www.baeldung.com/learn-jpa-hibernate)*
 
-:large_orange_diamond: **[Статья от Жени](https://proselyte.net/tutorials/hibernate-tutorial/)**
+:large_orange_diamond: *[Статья от Жени](https://proselyte.net/tutorials/hibernate-tutorial/)*
 
 
 
@@ -257,13 +254,13 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 Позволяет убедиться, что вы не допустили ошибку при написании программы. Это как бы набор маленьких программ на Java, которые проверяют правильность вашей основной программы. Также гарантируют, что будущие изменения кода программы не затронут старую логику. Таким образом вы всегда будете уверены, что ничего не сломали. Это серьезно ускоряет разработку, т.к. вам не приходится каждый раз проверять потенциальные баги. **Junit**(Java фреймворк для написания тестов самых разных видов), **Integration**(прекрасно работает в паре с другими фреймворками, например Spring).
 * Стоит просто разобратся какие бывают виды тестов на джава, как их писать на Junit, что такое моки и тд.
 
-:large_orange_diamond: **[Статьи на javarash](https://javarush.ru/groups/posts/605-junit)**
+:large_orange_diamond: *[Статьи на javarash](https://javarush.ru/groups/posts/605-junit)*
 
-:large_orange_diamond: **[Habr Инструменты тестирования Java](https://habr.com/ru/company/otus/blog/596033/)**
+:large_orange_diamond: *[Habr Инструменты тестирования Java](https://habr.com/ru/company/otus/blog/596033/)*
 
-:large_orange_diamond: **[Habr Тестирование в Java. JUnit](https://habr.com/ru/post/120101/)**
+:large_orange_diamond: *[Habr Тестирование в Java. JUnit](https://habr.com/ru/post/120101/)*
 
-:large_orange_diamond: **[Гайд от Жени](https://proselyte.net/tutorials/junit/)**
+:large_orange_diamond: *[Гайд от Жени](https://proselyte.net/tutorials/junit/)*
 
 
 
