@@ -195,22 +195,24 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 ## SPRING
 Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
 
+:large_orange_diamond: **[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)**
+
+:large_orange_diamond: **[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
+
 :large_orange_diamond: **[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)**
 
-:large_orange_diamond: **[Статья на хабре механике Spring Framework и MVC](https://habr.com/ru/post/490586/)**
+:large_orange_diamond: **[Простой пример Spring Boot app, охвачены темы: MVC, REST API, Flyway](https://youtu.be/q87Xxu4NPIc)**
 
-:large_orange_diamond: **[Простой пример Spring Boot приложение, охвачены темы: MVC, REST API, Flyway(миграция бд), хранение данных в бд](https://youtu.be/q87Xxu4NPIc)**
+:large_orange_diamond: **[Spring Boot pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
 
-:large_orange_diamond: **[LetsCode Spring Boot проект](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)**
-
-:large_orange_diamond: **[LetsCode Spring Boot + Vue.js проект](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
-
-:large_orange_diamond: **[Руководство от Жени по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)**
+:large_orange_diamond: **[Spring Boot + Vue.js pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)**
 
 :small_red_triangle: **Практика**:
 Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
 
-Так же на данном этапе будет хорошим тоном понимать принципы проектирование такие как: SOLID, MVC:
+Так же на данном этапе будет хорошим тоном понимать принципы/подходы/стили проектирование такие как: REST, SOLID, MVC:
+
+:large_orange_diamond: **[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)**
 
 :large_orange_diamond: **[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)**
 
