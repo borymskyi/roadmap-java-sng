@@ -34,15 +34,18 @@
 
 :large_orange_diamond: **[Java Core продвинутый №2](https://coursehunter.net/course/java-poluchi-chernyy-poyas)**
 
-:large_orange_diamond: **[Java Core детали от Головача](https://www.youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
+:small_orange_diamond: Книги. По усмотрению. Покрывают все особенности языка: **[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)**, **[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)**.
 
-:small_orange_diamond: Книги. Покрывают все особенности языка: **[Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)**, **[Java Полное руководство Г.Шилдт](https://t.me/dmytrii_bookshelf)**.
+:small_orange_diamond: Книги. По усмотрению. Для закрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
 
-:small_orange_diamond: Книги. Для закрепления знаний и как их использовать должным образом: **[Java Эффективное программирование Д.Блох](https://t.me/dmytrii_bookshelf)**, **[Чистый код Р.Мартин](https://t.me/dmytrii_bookshelf)**.
+:small_red_triangle: **Практика**: 
+- **[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)**
+- или есть неплохие альтернативы **[CodingBat](https://codingbat.com/java)**, **[Практические задачи по Java](https://habr.com/ru/post/440436/)**, **[1000 задач на Java](https://github.com/allicen/Java-1000)**.
 
-:small_red_triangle: Для закрепления темы можно потренироваться решая задачи: **[CodingBat](https://codingbat.com/java)**, **[Практические задачи по Java](https://habr.com/ru/post/440436/)**, **[1000 задач на Java](https://github.com/allicen/Java-1000)**, **[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)**.
+<details>
+<summary> :small_blue_diamond: Лекции которые покрывают пробелы в знаниях </summary>
 
-:large_blue_diamond: Можно еще покрыть пробелы в знаниях через конкретные [лекции Головача](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY):
+**[Ссылка на лекции](https://youtube.com/playlist?list=PLoij6udfBnciBZf7aLRmayAzcisWfAwOY)**
 
 Java Core Процедурное программирование(детали основ), итерация, рекурсия, динамические структуры данных, память в Java:
 > *[Additional#1.Dec2013(Сети база) №1](https://youtube.com/playlist?list=PLoij6udfBncjdjKiKlnqikkIjrPLFeivp)*
@@ -105,9 +108,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 > *[(singleton,enom,multiton) Java Core December: OOP. Лекция#24 №4](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)*
 
 > *[(gof, uml и тд)Java Core December: OOP. Лекция#25 №5](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)*
-
-:small_blue_diamond: Ролики на Youtube которые могут помочь:
-> *[Основы работы со Stream API в Java](https://youtu.be/aC0-KsuPG0I)*
+</details>
 
 
 
@@ -122,18 +123,20 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **Книги**: *[Грокаем алгоритмы Б.Адитья](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Руководство по разработке. 2-е издание С.Скиена](https://t.me/dmytrii_bookshelf)*, *[Структуры данных и алгоритмы Java Р.Лафоре](https://t.me/dmytrii_bookshelf)*, *[Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*.
 
-:large_orange_diamond: **Практика**: 
+:small_red_triangle: **Практика**: 
 - вариант 1: заходим на сайт **[LeetCode](https://leetcode.com/)** -> в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
 - вариант 2: читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину).
 - вариант 3: решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*.
 
-:small_blue_diamond: Ролики на Youtube которые могут помочь: 
+<details>
+<summary> :small_blue_diamond: Ролики на Youtube которые могут помочь </summary>
+
 > *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
 
 > *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
 
 > *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
-
+</details>
 
 
 
@@ -148,7 +151,7 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: **[JDBC: Введение в JDBC](https://youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)**
 
-:large_orange_diamond: **Практика**:
+:small_red_triangle: **Практика**:
 Чтобы потренироватся, нужно взять пару задач на sql и написать прогу на джава которая будет входить в вашу собственную бд и выполнять там нужные запросы.
 - **[SQL-EX.ru](https://www.sql-ex.ru/index.php?Lang=1)**
 - **[SQL Academy.org](https://sql-academy.org/ru)**
@@ -163,11 +166,16 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 ## HTTP & SERVLETS
 :large_orange_diamond: **[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)**
 
-:large_orange_diamond: **Практика**:
+:small_red_triangle: **Практика**:
 По прохождению курса что выше мы напишем простой сайт, просто стоит повторить написанное за автором. Затем можно добавить свои собственные сервлеты с дополнительной логикой. Также можно добавить свою базу данных, чтобы потренироваться в SQL & JDBC.
 
-:small_blue_diamond: Ролики на Youtube которые могут помочь:
+<details>
+<summary> :small_blue_diamond: Ролики на Youtube которые могут помочь </summary>
+
 > *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
+</details>
+
+
 
 
 
@@ -240,6 +248,11 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 
+
+
+
+
+
 ## TESTING
 Позволяет убедиться, что вы не допустили ошибку при написании программы. Это как бы набор маленьких программ на Java, которые проверяют правильность вашей основной программы. Также гарантируют, что будущие изменения кода программы не затронут старую логику. Таким образом вы всегда будете уверены, что ничего не сломали. Это серьезно ускоряет разработку, т.к. вам не приходится каждый раз проверять потенциальные баги. **Junit**(Java фреймворк для написания тестов самых разных видов), **Integration**(прекрасно работает в паре с другими фреймворками, например Spring).
 * Стоит просто разобратся какие бывают виды тестов на джава, как их писать на Junit, что такое моки и тд.
@@ -258,7 +271,10 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 
 ##
-:large_blue_diamond: Пробелы в знаниях **SQL & JDBC | HTTP & SERVLETS | MAVEN & GRADLE | SPRING | JPA & HIBERNATE | TESTING** можно покрыть через следующие [лекции от Головача](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko):
+<details>
+<summary> Лекции которые покрывают пробелы в SQL & JDBC | HTTP & SERVLETS | MAVEN & GRADLE | SPRING | JPA & HIBERNATE | TESTING </summary>
+
+[Ссылка на лекции](https://youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko):
 
 Обзор Java EE / Обзор Java 8:
 > *[Jun#1.Feb 2014.Additional №1](https://youtube.com/playlist?list=PLoij6udfBnchI9V8WL1wbK67hfuJM9efz)*
@@ -344,6 +360,8 @@ Log4J:
 
 JPA 2/Hibernate:
 > *[Junior.February2014.JPA2&Hibernate#24](https://youtube.com/playlist?list=PLoij6udfBnci05Oh7IRN-KU3PCjLeYtez)*
+</details>
+
 ##
 
 
@@ -351,7 +369,9 @@ JPA 2/Hibernate:
 
 
 
-### Или карта по пунктам
+
+
+### Альтернативная карта по пунктам
 * **ООП**
 * **Object** *(знать методы этого класса)*
 * **Exception** *(**логирование**, ловля их, обработка в логи)*
@@ -379,6 +399,12 @@ JPA 2/Hibernate:
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
 
+
+
+
+
+
+
 ### После подготовка к работе
 * **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
 * **Как найти первую работу в it:** *[Немчинский, что делать после завершения обучения](https://youtu.be/oLZuCGuAnsM)*
@@ -386,33 +412,35 @@ JPA 2/Hibernate:
 * **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
 
 
+
+
+
+
 ### Дополнительный материал
 - Разное:
-  - *[Е.Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
-  - *[Краткие гайды от Жени](https://proselyte.net/tutorials/)*
+  - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
+  - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
+  - *[Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
   - *[Телеграм канал с книгами](https://t.me/dmytrii_bookshelf)* , здесь можно по тегу it найти следующие книги:
     - Java. Полное руководство 10-е изданание. Г.Шилдт
     - Java. Эффективное программирование
     - Алгоритмы на Java
     - Грокаем алгоритмы
-  - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
-  - *[Годный плагин для Идеи, он заставляет тебя придерживаться чистому стилю письма](https://youtu.be/yrldX6dIS_4)*
-- Интересные yt каналы:
+- Годные Youtube каналы:
   - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
-  - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
-  - *[Golovach Courses](https://www.youtube.com/user/KharkovITCourses)*
-  - *[Петр](https://youtube.com/channel/UCLUYG3J5lYXs9gwz98aXIsQ)*
-  - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
-  - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
-  - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
+  - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
+  - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
+  - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
+  - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[ExtremeCode](https://www.youtube.com/c/ExtremeCode)*
-- Интересные статьи:
+- Статьи:
   - *[Зачем мне Java: неудобные вопросы о популярном языке и ответы на них](https://tproger.ru/articles/zachem-mne-java-voprosy-i-otvety/)*
-- Интересные ролики:
-  - *[Отличный ролик где сказано все необходимое о алгоритмах](https://youtu.be/_NhmGvYs8_g)*
-  - *[Какие проекты делать начинающему программисту?](https://youtu.be/lNWp3_CVEO0)*
+
+
+
+
 
 
 
