@@ -210,7 +210,9 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 :small_red_triangle: **Практика**:
 Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
 
-Так же на данном этапе будет хорошим тоном понимать принципы/подходы/стили проектирование такие как: REST, SOLID, MVC:
+Так же на данном этапе будет хорошим тоном понимать правила/принципы/подходы/стили проектирования такие как: The Clean Architecture, REST, SOLID, MVC:
+
+:large_orange_diamond: **[Принципы Чистой Архитектуры от Дяди Боба](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)**
 
 :large_orange_diamond: **[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)**
 
