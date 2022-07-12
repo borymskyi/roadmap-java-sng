@@ -222,6 +222,8 @@ Java Collection API (big-O notation, Java generics, Iterable / Iterator, Collect
 
 :large_orange_diamond: *[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)*
 
+*[REST с Spring, туториалы](https://www.baeldung.com/rest-with-spring-series)*
+
 :large_orange_diamond: *[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)*
 
 
