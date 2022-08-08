@@ -297,8 +297,11 @@
     - Грокаем алгоритмы
 - Годные Youtube каналы:
   - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
+  - *[codelike](https://www.youtube.com/c/codelike)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
+  - *[dmdev](https://www.youtube.com/c/dmdev/videos)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
+  - *[Аве Кодер](https://www.youtube.com/c/%D0%90%D0%B2%D0%B5%D0%9A%D0%BE%D0%B4%D0%B5%D1%80)*
   - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
   - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
   - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
