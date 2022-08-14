@@ -286,6 +286,7 @@
 
 ### Дополнительный материал
 - Разное:
+  - *[roadmap backend](https://roadmap.sh/backend)*
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
   - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
   - *[Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
