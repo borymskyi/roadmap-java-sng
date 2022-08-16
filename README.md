@@ -391,10 +391,11 @@ JPA 2/Hibernate:
 * **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
 * **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
 * **Тестирование** *(хотя бы понимание как это делать и зачем). (создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
-* **Паттерны** *(хватит поверхностных знаний) (минимальные знания, рассказать что они из себя представляют, знать самые базовые и популярные, сингл тон, прокси)*
+* **Паттерны** *(знать и уметь реализовать базовые популярные паттерны: Singleton, Factory Method, Strategy, Decorator).* 
+  - [Head First Паттерны проектирования. Эрик Фримен](https://t.me/dmytrii_bookshelf) | [Полный разбор всех паттернов из "Банды четырех" на java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
 * **Spring** *(базовые знания)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
-* **Git** *(хватит базы, уметь использовать на практике)*
+* **Git** *(хватит базы, уметь использовать на практике)* 
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
 
