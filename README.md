@@ -135,6 +135,7 @@
 * *[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)*
 * *[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 * *[Простой пример Spring Boot app, охвачены темы: MVC, REST API, Flyway](https://youtu.be/q87Xxu4NPIc)*
+* *[Полный курс по Spring Framework от dmdev](https://coursehunter.net/course/springnew)*
 * *[Spring Boot pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)*
 * *[Spring Boot + Vue.js pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)*
 * Практика. Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
