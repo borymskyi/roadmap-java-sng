@@ -151,10 +151,10 @@
 
 ## JPA & HIBERNATE
 > Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию jpf), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
+* *[Полный курс по Hibernate](https://coursehunter.net/course/hibernate)*
+* *[Гайд/Документация по Hibernate](https://proselyte.net/tutorials/hibernate-tutorial/)*
 * *[Документация от спринга](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)*
-* *[Статьи Java Persistence API](https://easyjava.ru/data/jpa/)*
 * *[Learn JPA & Hibernate](https://www.baeldung.com/learn-jpa-hibernate)*
-* *[Статья от Жени](https://proselyte.net/tutorials/hibernate-tutorial/)*
 
 
 
