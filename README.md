@@ -254,7 +254,7 @@
 * **Generics** *(как применять, как он работает).*
 * **Concurrency** **_(базовые знания)_** *(как работает многопоточность, как создать тред, sleep, join, монитор, процесс гонки)*
   - *[база многопоточности](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)*
-  - *[статья о wait, notify]*
+  - *[статья о wait, notify](https://metanit.com/java/tutorial/8.5.php)*
 * **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)* 
   - *[Урок по Java 34: Garbage Collector](https://www.youtube.com/watch?v=-ayMplONmkI)*
 * **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
