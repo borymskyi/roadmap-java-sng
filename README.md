@@ -253,6 +253,7 @@
   - *[ссылка на плейлист с теорией по коллекциям](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)*
 * **Generics** *(как применять, как он работает).*
 * **Concurrency** **_(базовые знания)_** *(монитор, лог, светофор, как работает многопоточность, как создавать тред)*
+  - *[База многопоточности](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)*
 * **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)* 
   - *[Урок по Java 34: Garbage Collector](https://www.youtube.com/watch?v=-ayMplONmkI)*
 * **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
