@@ -247,31 +247,32 @@
 
 * **ООП**
 * **Object** *(знать методы этого класса)*
-* **Exception** *(**логирование**, ловля их, обработка в логи)*
+* **Generics** *(как применять, как он работает).*
 * **Collections** **_(больше всего спрашивают, надо очень подробно знать)_**
   - *[ссылка на плейлист Головача по коллекциям](https://youtube.com/playlist?list=PLoij6udfBncgj3VbXvJxUIZOnFFHMv7os)*
   - *[ссылка на плейлист с теорией по коллекциям](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)*
-* **Generics** *(как применять, как он работает).*
+* **Stream** *(как работает)*
+* **Lamda** *(как она работает, как оно устроено, черный ящик)*
+* **Garbage Collector** *(gc(), finalize(), как он чистит мусор, как он работает, можно ли заставить работать)* 
+  - *[Урок по Java 34: Garbage Collector](https://www.youtube.com/watch?v=-ayMplONmkI)*
 * **Concurrency** **_(базовые знания)_** *(как работает многопоточность, как создать тред, sleep, join, монитор, процесс гонки)*
   - *[база многопоточности](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)*
   - *[статья о wait, notify](https://metanit.com/java/tutorial/8.5.php)*
-* **[GC](https://java-online.ru/garbage-collection.xhtml)** *(как он чистит мусор, как он работает, можно ли его заставить или нет)* 
-  - *[Урок по Java 34: Garbage Collector](https://www.youtube.com/watch?v=-ayMplONmkI)*
-* **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
-* **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
-  - *[годный гайд от Немчинского](https://www.youtube.com/watch?v=IAbZVA4tK6M)*
-* **Lamda** *(как она работает, как оно устроено, черный ящик)*
-* **Stream** *(как работает)*
+* **Exception** *(**логирование**, ловля их, обработка в логи)*
 * **String** **_(и память) (Часто спрашивают!)_** *(работа с памятю, как он копирует, и многое другое)*
-* **SQL** *(лучше postgre) Надо знать основы, не более! (главное понять как с ним работать)*
-  - *[ссылка на плейлист с гайдом по SQL](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)*
-* **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
-* **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
-* **Тестирование** *(хотя бы понимание как это делать и зачем). (создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
-* **Паттерны** *(знать и уметь реализовать базовые популярные паттерны: Singleton, Factory Method, Strategy, Decorator).* 
-  - [Head First Паттерны проектирования. Эрик Фримен](https://t.me/dmytrii_bookshelf) | [Полный разбор всех паттернов из "Банды четырех" на java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
 * **Spring** *(базовые знания)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
+* **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
+  - *[годный гайд от Немчинского](https://www.youtube.com/watch?v=IAbZVA4tK6M)*
+  - *[гайд от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
+* **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
+* **SQL** *(лучше postgre) Надо знать основы, не более! (главное понять как с ним работать)*
+  - *[ссылка на плейлист с гайдом по SQL](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)*
+* **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
+* **Тестирование** *(хотя бы понимание как это делать и зачем). (создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
+* **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
+* **Паттерны** *(знать и уметь реализовать базовые популярные паттерны: Singleton, Factory Method, Strategy, Decorator).* 
+  - [Head First Паттерны проектирования. Эрик Фримен](https://t.me/dmytrii_bookshelf) | [Полный разбор всех паттернов из "Банды четырех" на java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
 * **Git** *(хватит базы, уметь использовать на практике)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
