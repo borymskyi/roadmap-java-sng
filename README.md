@@ -243,23 +243,29 @@
 
 
 <details>
-<summary> Альтернативная карта по пунктам </summary>
+<summary> Список тем для подготовки к интервью </summary>
 
 * **ООП**
-* **Object** *(знать методы этого класса)*
-* **Generics** *(как применять, как он работает).*
-* **Collections** **_(больше всего спрашивают, надо очень подробно знать)_**
-  - *[ссылка на плейлист Головача по коллекциям](https://youtube.com/playlist?list=PLoij6udfBncgj3VbXvJxUIZOnFFHMv7os)*
-  - *[ссылка на плейлист с теорией по коллекциям](https://youtube.com/playlist?list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)*
+* **Object** *(знать методы)*
+  - *[Link 1](https://youtu.be/DrQqZj5OIZc)* | *[Link 2](https://www.youtube.com/watch?v=Juav74bCtZ8)* | *[Link 3](https://www.youtube.com/watch?v=NQdwRwbPVCs)* | *[Link 4](https://youtu.be/B0bweMu3m5E)*
+
+* **Generics** *(как применять, как оно работает)*
+* **Collection Framework** *(**больше всего спрашивают**, надо очень подробно знать)*
+  - *[Link 1](https://youtube.com/playlist?list=PL786bPIlqEjRvuYGGDMxy6YqzG-Hizvs8)* | *[Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)* | *[Link 3](https://youtu.be/xVfV8r_4GYI)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncjiXKA5ce0hi4b4DIvGymeo)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciAPeXh5oOGBsQ2c8GlEFu0)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncgIlUdvGNtG2Jp7gXbDMx15)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncjAZTDf6Vx281R5Y9mnm93q)*
+
+* **Lamda** *(как работает, как устроено, черный ящик)*
+
 * **Stream** *(как работает)*
-* **Lamda** *(как она работает, как оно устроено, черный ящик)*
+
 * **Garbage Collector** *(gc(), finalize(), как он чистит мусор, как он работает, можно ли заставить работать)* 
-  - *[Урок по Java 34: Garbage Collector](https://www.youtube.com/watch?v=-ayMplONmkI)*
-* **Concurrency** **_(базовые знания)_** *(как работает многопоточность, как создать тред, sleep, join, монитор, процесс гонки)*
-  - *[база многопоточности](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)*
-  - *[статья о wait, notify](https://metanit.com/java/tutorial/8.5.php)*
+  - *[Link 1](https://youtu.be/-ayMplONmkI)*
+
+* **Multithreading / Concurrency** **_(базовые знания)_** *(как работает многопоточность, как создать тред, sleep, join, монитор, процесс гонки)*
+  - *[Link 1](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)* | *[Link 2](https://metanit.com/java/tutorial/8.5.php)*
+
 * **Exception** *(**логирование**, ловля их, обработка в логи)*
 * **String** **_(и память) (Часто спрашивают!)_** *(работа с памятю, как он копирует, и многое другое)*
+
 * **Spring** *(базовые знания)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 * **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
