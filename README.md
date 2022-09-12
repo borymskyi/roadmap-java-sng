@@ -254,6 +254,7 @@
   - *[Link 1](https://youtube.com/playlist?list=PL786bPIlqEjRvuYGGDMxy6YqzG-Hizvs8)* | *[Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)* | *[Link 3](https://youtu.be/xVfV8r_4GYI)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncjiXKA5ce0hi4b4DIvGymeo)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciAPeXh5oOGBsQ2c8GlEFu0)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncgIlUdvGNtG2Jp7gXbDMx15)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncjAZTDf6Vx281R5Y9mnm93q)*
 
 * **Lamda** *(как работает, как устроено, черный ящик)*
+  - *[Link 1](https://youtu.be/jHStUYP1NEg)* | *[Link 2](https://youtu.be/33pi0sIZNEU)* | *[Link 3](https://youtu.be/sWwkwcAugR0)*
 
 * **Stream** *(как работает)*
 
