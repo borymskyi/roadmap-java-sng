@@ -243,7 +243,9 @@
 
 
 <details>
-<summary> Список тем для подготовки к интервью </summary>
+<summary> Подготовка к работе </summary>
+
+## Список тем для интерью
 
 * **ООП**
 * **Object** *(знать методы)*
@@ -284,13 +286,15 @@
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
 
-
-
-## После подготовка к работе
-* **Подготовка к собеседоваию:** *[частые вопросы](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)*
-* **Как найти первую работу в it:** *[Немчинский, что делать после завершения обучения](https://youtu.be/oLZuCGuAnsM)*
-* **Резюме на английском:** *[Немчинский, как писать резюме](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[GitHub как резюме программиста](https://youtu.be/nEnuP2NmMA4)*
-* **Тестовые собеседования:** *[плейлист Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
+## Подготовка к интервью
+* **Структура собиседования**
+  - *[Link 1](https://youtu.be/UQnpwtdHiDs)*
+* **Что делать после обучения** 
+  - *[Link 1](https://youtu.be/oLZuCGuAnsM)*
+* **Частые вопросы для Java Junior** 
+  - *[Link 1](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)* | *[Link 2 E](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
+* **Составляем CV** 
+  - *[Link 1](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[Link 2](https://youtu.be/nEnuP2NmMA4)* | *[Link 4](https://youtu.be/jhnsjSCgtu0)* | *[Link 5](https://youtu.be/i1tJ8FfEXv4)* | *[Link 6 CV](https://www.hiration.com/)* | *[Link 7 CV](https://www.pdf2go.com/)*
 </details>
 
 ##
