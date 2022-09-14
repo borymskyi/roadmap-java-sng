@@ -258,7 +258,8 @@
 * **Lamda** *(как работает, как устроено, черный ящик)*
   - *[Link 1](https://youtu.be/jHStUYP1NEg)* | *[Link 2](https://youtu.be/33pi0sIZNEU)* | *[Link 3](https://youtu.be/sWwkwcAugR0)* | *[Link 4](https://youtu.be/oUvx2Up-PkA)* | *[Link 5](https://youtu.be/GMzP5vIG9YU)*
 
-* **Stream** *(как работает)*
+* **Stream** *(как работает, методы)*
+  - *[Link 1](https://youtu.be/IQVwwwSe4Ic)* | *[Link 2](https://youtu.be/aC0-KsuPG0I)* | *[Link 3](https://youtu.be/RzEiCguFZiY)*
 
 * **Garbage Collector** *(gc(), finalize(), как он чистит мусор, как он работает, можно ли заставить работать)* 
   - *[Link 1](https://youtu.be/-ayMplONmkI)*
