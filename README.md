@@ -247,6 +247,8 @@
 
 ## Список тем для интерью
 
+* **Data Structure & Algorithms** *(уметь решать не сложные а.задачи, знать базовые алгоритмы)*
+  - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
 * **ООП**
 * **Object** *(знать методы)*
   - *[Link 1](https://youtu.be/DrQqZj5OIZc)* | *[Link 2](https://www.youtube.com/watch?v=Juav74bCtZ8)* | *[Link 3](https://www.youtube.com/watch?v=NQdwRwbPVCs)* | *[Link 4](https://youtu.be/B0bweMu3m5E)*
