@@ -254,7 +254,7 @@
   - *[Link 1](https://youtu.be/4owUYYdcAOw)* | *[Link 2](https://youtu.be/YMTdEXpQTZQ)* | *[Link 3](https://youtu.be/BYu8gT0hGCQ)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)* | *[Link 8 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=20)*
 
 * **Generics** *(как применять, как оно работает)*
-  - *[Link 1 G](https://youtu.be/Yymzcnt-Ars)*
+  - *[Link 1 G](https://youtu.be/Yymzcnt-Ars)* | *[Link 2 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=27)* | *[Link 3 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=28)* | *[Link 4 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=29)*
 
 * **Object** *(знать методы)*
   - *[Link 1](https://youtu.be/DrQqZj5OIZc)* | *[Link 2](https://www.youtube.com/watch?v=Juav74bCtZ8)* | *[Link 3](https://www.youtube.com/watch?v=NQdwRwbPVCs)* | *[Link 4](https://youtu.be/B0bweMu3m5E)*
