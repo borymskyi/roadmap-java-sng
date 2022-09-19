@@ -275,6 +275,8 @@
   - *[Link 1](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)* | *[Link 2](https://metanit.com/java/tutorial/8.5.php)*
 
 * **Exception** *(**логирование**, ловля их, обработка в логи)*
+  - *[Link 1](https://youtu.be/_ndfgwHtcXY)* | *[Link 2 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=47)* | *[Link 3](https://youtu.be/mLpMtc62530)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncilVuX_R0sBrESIlyfQWVjm)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnchbxh8ZAY-FPlmj97aCILTY)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjLoxagaF5tGsDp-0XKMyhc)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnchR-Cc-RB4EUZokLrLlIuWQ)*
+
 * **String** **_(и память) (Часто спрашивают!)_** *(работа с памятю, как он копирует, и многое другое)*
 
 * **Spring** *(базовые знания)*
