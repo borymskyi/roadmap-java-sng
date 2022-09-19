@@ -249,7 +249,10 @@
 
 * **Data Structure & Algorithms** *(уметь решать не сложные а.задачи, знать базовые алгоритмы)*
   - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
+
 * **ООП**
+  - *[Link 1](https://youtu.be/4owUYYdcAOw)* | *[Link 2](https://youtu.be/YMTdEXpQTZQ)* | *[Link 3](https://youtu.be/BYu8gT0hGCQ)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)* | *[Link 8 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=20)*
+
 * **Object** *(знать методы)*
   - *[Link 1](https://youtu.be/DrQqZj5OIZc)* | *[Link 2](https://www.youtube.com/watch?v=Juav74bCtZ8)* | *[Link 3](https://www.youtube.com/watch?v=NQdwRwbPVCs)* | *[Link 4](https://youtu.be/B0bweMu3m5E)*
 
