@@ -280,19 +280,28 @@
 * **String, String Pool** *(как работает память, как он копирует, имутабельность, отличие от других стрингов)*
   - *[Link 1 Y](https://youtu.be/d_oou6CAz5U)* | *[Link 2 Y](https://youtu.be/1QP8y6-1fD0)*
 
-* **Spring** *(базовые знания)*
+* **SQL** *(лучше postgre) Надо знать основы, не более! (главное понять как с ним работать)*
+  - *[ссылка на плейлист с гайдом по SQL](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)*
+
+* **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
+
+* **JDBC + DAO** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
+
+* **Spring + Hibernate + WEB** *(базовые знания Spring framework + Hibernate + понимание как устроин web, что будет если ввести слово в поисковик и тд)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
+
 * **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
   - *[годный гайд от Немчинского](https://www.youtube.com/watch?v=IAbZVA4tK6M)*
   - *[гайд от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
-* **JDBC** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
-* **SQL** *(лучше postgre) Надо знать основы, не более! (главное понять как с ним работать)*
-  - *[ссылка на плейлист с гайдом по SQL](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)*
-* **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
-* **Тестирование** *(хотя бы понимание как это делать и зачем). (создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
+
+* **Unit & Integation testing** *(Хотя бы понимание как это делать и зачем. Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
+
 * **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
+  - *[Link 1 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 2 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 3 Y](https://youtu.be/1MDiB2Ya--4)*
+
 * **Паттерны** *(знать и уметь реализовать базовые популярные паттерны: Singleton, Factory Method, Strategy, Decorator).* 
   - [Head First Паттерны проектирования. Эрик Фримен](https://t.me/dmytrii_bookshelf) | [Полный разбор всех паттернов из "Банды четырех" на java](https://www.youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)
+
 * **Git** *(хватит базы, уметь использовать на практике)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
