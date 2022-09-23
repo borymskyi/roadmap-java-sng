@@ -280,14 +280,10 @@
 * **String, String Pool** *(как работает память, как он копирует, имутабельность, отличие от других стрингов)*
   - *[Link 1 Y](https://youtu.be/d_oou6CAz5U)* | *[Link 2 Y](https://youtu.be/1QP8y6-1fD0)*
 
-* **SQL** *(лучше postgre) Надо знать основы, не более! (главное понять как с ним работать)*
-  - *[ссылка на плейлист с гайдом по SQL](https://youtube.com/playlist?list=PL07gy0X0ydd0_SrqguK2zVIQg07sbTEDK)*
+* **SQL + JDBC** *(Иметь крепкую базу, понимать как работает на практике, как создавать коннект, пулл, уровни изоляции транзакций sql _isolation levels_, грязночтение, понимание что будет происходить на уровне бд если человек читает текущую запись, а другой изменяет данные, какие данные будут у них видны и тд)*
+  - *[Link 1 SQL Y](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)* | *[Link 2 SQL C](https://coursehunter.net/course/sql)* | *[Link 3 JDBC C](https://coursehunter.net/course/jdbc?lesson=1)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncijyqGvf-YLN7hAL0S6nIrG)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBncgGpXnVrDElGWoIhZMJTzr6)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjQ6nd4jZvelDojOLkdITDq)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncgy-PDoYGvxyZ5L5GnqV_2R)* | *[Link 8 G](https://youtube.com/playlist?list=PLoij6udfBncjY0jx7t8Sc-V_qoNZM5gAu)* | *[Link 9 G](https://youtube.com/playlist?list=PLoij6udfBncigW-7YJku0LlQTDlMwmL33)* | *[Link 10 G](https://youtube.com/playlist?list=PLoij6udfBncj5beNvOYxtPhOkAPKVYnFz)*
 
-* **Уровни изоляции транзакций sql** **_(isolation levels)_** *(грязно чтение, понимание что будет происходить на уровне бд если человек читает эту запись, а другой изменяет  какие то данные, какие данные будут у них видны)*
-
-* **JDBC + DAO** **_(mybatis / hibernate)_** *(как создавать коннект, как создавать пул, работать с бд)*
-
-* **Spring + Hibernate + WEB** *(базовые знания Spring framework + Hibernate + понимание как устроин web, что будет если ввести слово в поисковик и тд)*
+* **Spring + Hibernate + WEB** *(базовые знания Spring framework, Hibernate, понимание как устроин web, что будет если ввести слово в поисковик и тд)*
   - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
 
 * **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
