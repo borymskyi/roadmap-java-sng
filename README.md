@@ -14,7 +14,7 @@
 * [SPRING](#spring)
 * [JPA & HIBERNATE](#jpa--hibernate)
 * [TESTING](#testing)
-* [Подготовка к работе](#подготовка-к-работе)
+* [Идем на работу](#идем-на-работу)
 * [Дополнительный материал](#дополнительный-материал)
 
 
@@ -250,7 +250,7 @@
   - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
 
 * **ООП**
-  - *[Link 1](https://youtu.be/4owUYYdcAOw)* | *[Link 2](https://youtu.be/YMTdEXpQTZQ)* | *[Link 3](https://youtu.be/BYu8gT0hGCQ)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)* | *[Link 8 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=20)*
+  - *[Link 1](https://youtu.be/4owUYYdcAOw)* | *[Link 2](https://youtu.be/YMTdEXpQTZQ)* | *[Link 3](https://youtu.be/BYu8gT0hGCQ)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)* | *[Link 8 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=20)* | *[Link Y](https://youtu.be/Xg_DTzM6o6U)*
 
 * **Generics** *(как применять, как оно работает)*
   - *[Link 1 G](https://youtu.be/Yymzcnt-Ars)* | *[Link 2 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=27)* | *[Link 3 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=28)* | *[Link 4 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=29)*
