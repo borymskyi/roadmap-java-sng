@@ -14,6 +14,7 @@
 * [SPRING](#spring)
 * [JPA & HIBERNATE](#jpa--hibernate)
 * [TESTING](#testing)
+* [Подготовка к работе](#подготовка-к-работе)
 * [Дополнительный материал](#дополнительный-материал)
 
 
@@ -240,12 +241,10 @@
 ##
 
 
-
+### Идем на работу
 
 <details>
-<summary> Подготовка к работе </summary>
-
-## Список тем для интерью
+<summary> Закрываем дыры для собеса </summary>
 
 * **Data Structure & Algorithms** *(уметь решать не сложные а.задачи, знать базовые алгоритмы)*
   - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
@@ -301,8 +300,7 @@
 * **Git** *(хватит базы, уметь использовать на практике)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
-
-## Подготовка к интервью
+### Подготовка к собесу
 * **Структура собиседования**
   - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)* | *[Link 4 Y](https://youtu.be/oLZuCGuAnsM)*
 * **Частые вопросы для Java Junior**
@@ -317,6 +315,7 @@
 
 
 ### Дополнительный материал
+
 - Разное:
   - *[roadmap backend](https://roadmap.sh/backend)*
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
