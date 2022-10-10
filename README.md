@@ -304,11 +304,9 @@
 
 ## Подготовка к интервью
 * **Структура собиседования**
-  - *[Link 1](https://youtu.be/UQnpwtdHiDs)*
-* **Что делать после обучения** 
-  - *[Link 1](https://youtu.be/oLZuCGuAnsM)*
-* **Частые вопросы для Java Junior** 
-  - *[Link 1](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)* | *[Link 2 E](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
+  - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)* | *[Link 4 Y](https://youtu.be/oLZuCGuAnsM)*
+* **Частые вопросы для Java Junior**
+  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
 * **Составляем CV** 
   - *[Link 1](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[Link 2](https://youtu.be/nEnuP2NmMA4)* | *[Link 4](https://youtu.be/jhnsjSCgtu0)* | *[Link 5](https://youtu.be/i1tJ8FfEXv4)* | *[Link 6 CV](https://www.hiration.com/)* | *[Link 7 CV](https://www.pdf2go.com/)*
 </details>
