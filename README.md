@@ -294,8 +294,8 @@
 * **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
   - *[Link 1 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 2 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 3 Y](https://youtu.be/1MDiB2Ya--4)*
 
-* **Паттерны проектирования** *(Знать и уметь реализовать базовые популярные паттерны: Singleton, Factory Method, Strategy, Decorator).* 
-  - *[Link 1 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Банда четырех](https://t.me/dmytrii_bookshelf/231)*
+* **Паттерны проектирования** *(Знать и уметь реализовать базовые популярные паттерны).* 
+  - *[Link 1 W](https://refactoring.guru/ru/design-patterns)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Книга: Банда четырёх](https://t.me/dmytrii_bookshelf/231)*
 
 * **Git** *(хватит базы, уметь использовать на практике)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
