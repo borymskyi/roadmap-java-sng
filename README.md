@@ -292,7 +292,7 @@
 * **Unit & Integation testing** *(Хотя бы понимание как это делать и зачем. Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
 
 * **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
-  - *[Link 1 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 2 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 3 Y](https://youtu.be/1MDiB2Ya--4)*
+  - *[Link 1 W](https://habr.com/ru/post/688530/)* | *[Link 2 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 3 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 4 Y](https://youtu.be/1MDiB2Ya--4)*
 
 * **Паттерны проектирования** *(Знать и уметь реализовать базовые популярные паттерны).* 
   - *[Link 1 W](https://refactoring.guru/ru/design-patterns)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Книга: Банда четырёх](https://t.me/dmytrii_bookshelf/231)*
