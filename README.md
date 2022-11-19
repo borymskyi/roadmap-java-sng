@@ -303,19 +303,14 @@
 ### Дополнительный материал
 
 - Разное:
+  - *[Телега с книгами](https://t.me/dmytrii_bookshelf)*
   - *[roadmap backend](https://roadmap.sh/backend)*
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
   - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
-  - *[Книга "Архитектура Современных Веб-Приложений"](https://workshop.zhashkevych.com/courses-info/60a6692126276a15b8dcfa39)*
-  - *[Телеграм канал с книгами](https://t.me/dmytrii_bookshelf)* , здесь можно по тегу it найти следующие книги:
-    - Java. Полное руководство 10-е изданание. Г.Шилдт
-    - Java. Эффективное программирование
-    - Алгоритмы на Java
-    - Грокаем алгоритмы
 - Годные Youtube каналы:
+  - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
   - *[codelike](https://www.youtube.com/c/codelike)*
-  - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[dmdev](https://www.youtube.com/c/dmdev/videos)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
   - *[Аве Кодер](https://www.youtube.com/c/%D0%90%D0%B2%D0%B5%D0%9A%D0%BE%D0%B4%D0%B5%D1%80)*
@@ -324,8 +319,6 @@
   - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
   - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
   - *[ExtremeCode](https://www.youtube.com/c/ExtremeCode)*
-- Статьи:
-  - *[Зачем мне Java: неудобные вопросы о популярном языке и ответы на них](https://tproger.ru/articles/zachem-mne-java-voprosy-i-otvety/)*
 
 
 
