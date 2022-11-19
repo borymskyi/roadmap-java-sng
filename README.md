@@ -24,9 +24,9 @@
 ## JAVA CORE
 > Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
 
-* Java Core с нуля *[Link 1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle) | [Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_rqruGcnd2V8SPbY0j9DzT5)*
-* Java Core продвинутый *[Link 1](https://coursehunter.net/course/java-poluchi-chernyy-poyas) | [Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)*
-* Книги: *[Java Полное руководство Г.Шилдт | Java Эффективное программирование Д.Блох | Философия Java Брюс.Экк](https://t.me/dmytrii_bookshelf)*
+* Java Core с нуля *[Link 1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)*
+* Java Core продвинутый *[Link 1](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)*
+* Книги: *Java Полное руководство Г.Шилдт | Java Эффективное программирование Д.Блох | Философия Java Б.Эк*
 * Практика: *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* | *[CodingBat](https://codingbat.com/java)* | *[Практические задачи по Java](https://habr.com/ru/post/440436/)* | *[1000 задач на Java](https://github.com/allicen/Java-1000)*
 
 <details>
@@ -84,7 +84,7 @@
 ## ALGORYTHMS & DATA STRUCTURES
 > Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
 
-* Книги. *[Грокаем алгоритмы Б.Адитья | Алгоритмы. Построение и анализ](https://t.me/dmytrii_bookshelf)*
+* Книги. *Алгоритмы на Java Р.Седжвик | Грокаем алгоритмы Б.Адитья | Алгоритмы Построение и анализ Т.Кормен.*
 * Практика:
   * Вариант 1. Заходим на сайт *[LeetCode](https://leetcode.com/)* в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
   * вариант 2: читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину).
@@ -93,78 +93,64 @@
 <details>
 <summary> Дополнительный материал </summary>
 
-* *[Советы от Ксении по алгоритмам](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)*
-* *[Гайды от Жени по структурам данных](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)*
-* *[LeetCode гайды от Жени](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
+* *[Link 1 Y](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)* | *[Link 3 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
 </details>
 
 
 
 
 ## SQL & JDBC
-* *[Основы SQL за 45 минут](https://youtu.be/IK6e1SFCdow)*
-* *[PostgreSQL. Основы SQL](https://youtu.be/uGKIXTUjZbc)*
-* *[JDBC: Введение в JDBC](https://youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)*
+* *[Детальный курс по SQL dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5q3x1Mp6Fh9YEvv70dL6re)*
+* *[Детальный курс по JDBC dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl7an1-h7MLjt6fi-5sJM3Cj )*
 
 
 
 
 ## HTTP & SERVLETS
-* *[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)*
-
-<details>
-<summary> Дополнительный материал</summary>
-
-* *[Как работает HTTPS](https://youtu.be/B3j4SS5P8tM)*
-</details>
+* *[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)* или *[Детальный курс по HTTP. Servlets от dmdev](https://youtu.be/EIUPwZsVFYY)*
 
 
 
 
 ## MAVEN & GRADLE
-* *[Лекция от Немчинского](https://youtu.be/IAbZVA4tK6M)*
-* *[Мавен основы на хабре](https://habr.com/ru/post/77382/)*
-* *[Гайд от принга по мавен и градл](http://spring-projects.ru/guides/gradle/)*
-* *[Гайд по Градл](https://javarush.ru/groups/posts/2126-kratkoe-znakomstvo-s-gradle)*
+* *[Maven статья на хабре](https://habr.com/ru/post/77382/)*
+* *[Maven Детальный курс от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
+* *[Gradle Детальный курс от dmdev](https://youtu.be/a7NVG1U-Qkc)*
 
 
 
 
 ## SPRING
 > Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
-* *[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)*
+* *[Детальный курс по Spring от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5ZK-8o1KXwnbeBgoKYDbdr)*
 * *[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)*
-* *[База Spring Core, MVC](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
-* *[Простой пример Spring Boot app, охвачены темы: MVC, REST API, Flyway](https://youtu.be/q87Xxu4NPIc)*
-* *[Полный курс по Spring Framework от dmdev](https://coursehunter.net/course/springnew)*
-* *[Spring Boot pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)*
-* *[Spring Boot + Vue.js pet-p](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)*
-* Практика. Написать веб приложение, можно взять пример с вышеупомянутых каналов LetsCode / Alishev
+* *[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)*
+* *[Короткий курс, база Spring Framework](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
+* *[Практика: REST API](https://youtu.be/q87Xxu4NPIc)*
+* *[Практика: Spring Boot project](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)*
+* *[Практика: Spring Boot + Vue.js project](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)*
 
-Так же на данном этапе будет хорошим тоном понимать правила/принципы/подходы/стили проектирования такие как: The Clean Architecture, REST, SOLID, MVC:
+Так же на данном этапе будет хорошо понимать некоторые принципы/пааттерны разработки ПО, такие как SOLID, Паттерные проектирования.
+* *[Теория: Паттерны проектирования](https://refactoring.guru/ru/design-patterns)*
+* *[Практика: Паттерны проектирования](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)*
 * *[Принципы Чистой Архитектуры от Дяди Боба](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)*
-* *[Создание RESTfull API app с помощью Spring](https://spring.io/guides/tutorials/rest/)*
-* *[REST с Spring, туториалы](https://www.baeldung.com/rest-with-spring-series)*
-* *[SOLID принципы простым языком с примерами](https://youtu.be/TxZwqVTaCmA)*
+* *[SOLID принципы, простым языком](https://youtu.be/TxZwqVTaCmA)*
 
 
 
 
 ## JPA & HIBERNATE
 > Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию jpf), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
-* *[Полный курс по Hibernate](https://coursehunter.net/course/hibernate)*
-* *[Гайд/Документация по Hibernate](https://proselyte.net/tutorials/hibernate-tutorial/)*
+* *[Детальный курс по Hibernate от dmdev](https://coursehunter.net/course/hibernate)*
+* *[ru Документация по Hibernate](https://proselyte.net/tutorials/hibernate-tutorial/)*
 * *[Документация от спринга](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)*
-* *[Learn JPA & Hibernate](https://www.baeldung.com/learn-jpa-hibernate)*
 
 
 
 
 ## TESTING
 > Позволяет убедиться, что вы не допустили ошибку при написании программы. Это как бы набор маленьких программ на Java, которые проверяют правильность вашей основной программы. Также гарантируют, что будущие изменения кода программы не затронут старую логику. Таким образом вы всегда будете уверены, что ничего не сломали. Это серьезно ускоряет разработку, т.к. вам не приходится каждый раз проверять потенциальные баги. **Junit**(Java фреймворк для написания тестов самых разных видов), **Integration**(прекрасно работает в паре с другими фреймворками, например Spring). Стоит просто разобратся какие бывают виды тестов на джава, как их писать на Junit, что такое моки и тд.
-* *[Habr Туториал по JUnit 5](https://habr.com/ru/post/590607/)*
-* *[Habr JUnit 5](https://habr.com/ru/post/590607/)*
-* *[Habr Тестирование в Java. JUnit](https://habr.com/ru/post/120101/)*
+* *[Детальный курс по JUnit 5 от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5AqvBosxUefReW4nC35P0x)*
 
 
 
