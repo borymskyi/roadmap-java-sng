@@ -14,7 +14,7 @@
 * [SPRING](#spring)
 * [JPA & HIBERNATE](#jpa--hibernate)
 * [TESTING](#testing)
-* [Идем на работу](#идем-на-работу)
+* [Идем на собес](#идем-на-собес)
 * [Дополнительный материал](#дополнительный-материал)
 
 
@@ -22,12 +22,12 @@
 
 
 ## JAVA CORE
-> Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Исключения**, **Коллекции**, **Внутренние классы**, **Ввод-вывод**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего, например основные классы Java (Object) и тд.
+> Это целый ряд тем. Оновные: **ООП в Java**, **Ветвление, Циклы**, **Массивы**, **Exceptions**, **Collection Framework**, **Input-Output**, **Многопоточность**, **Stream API**, и еще разный ряд базовых принципов для использование всего.
 
-* Java Core с нуля *[Link 1](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)*
-* Java Core продвинутый *[Link 1](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)*
-* Книги: *Java Полное руководство Г.Шилдт | Java Эффективное программирование Д.Блох | Философия Java Б.Эк*
-* Практика: *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* | *[CodingBat](https://codingbat.com/java)* | *[Практические задачи по Java](https://habr.com/ru/post/440436/)* | *[1000 задач на Java](https://github.com/allicen/Java-1000)*
+* Java Core с нуля *[Link](https://coursehunter.net/course/java-dzhava-dlya-nachinayushchih-s-nulya-do-sertifikata-oracle)*
+* Java Core продвинутый *[Link](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)*
+* Книги: *Java Эффективное программирование Д.Блох* && *Java Полное руководство Г.Шилдт*
+* Практика: *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* || *[Практические задачи по Java](https://habr.com/ru/post/440436/)* || *[1000 задач на Java](https://github.com/allicen/Java-1000)*
 
 <details>
 <summary> Дополнительный материал </summary>
@@ -82,13 +82,11 @@
 
 
 ## ALGORYTHMS & DATA STRUCTURES
-> Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд.), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и прочее).
+> Нужно уметь применять наиболее эффективные способы решения некоторых задач, а для этого стоит быть в курсе базовых алгоритмов и структур данных: **Algorythms**(Различные сортировки, поиск значений, поиск кратчайшего пути и тд), **Data Structures**(Списки, Очереди, Мапы, Деревья, Графы и тд).
 
-* Книги. *Алгоритмы на Java Р.Седжвик | Грокаем алгоритмы Б.Адитья | Алгоритмы Построение и анализ Т.Кормен.*
+* Книги: *Алгоритмы на Java Р.Седжвик || Грокаем алгоритмы Б.Адитья || Алгоритмы Построение и анализ Т.Кормен.*
 * Практика:
-  * Вариант 1. Заходим на сайт *[LeetCode](https://leetcode.com/)* в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
-  * вариант 2: читаем книгу -> узнаем новый алгоритм или структуру данных -> пытаемся написать код который делает тоже самое(сортировки, списки, очереди, поиск в ширину).
-  * вариант 3: решаем задачки по теме на *[Codewars](https://www.codewars.com/kata/search/java?beta=false&order_by=popularity+desc&q=&r%5B%5D=-8&tags=)* или *[HackerRank](https://www.hackerrank.com/domains/java?filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bskills%5D%5B%5D=Java%20%28Basic%29)*.
+  * Заходим на сайт *[LeetCode](https://leetcode.com/)* в разделе Explore заходим в лист *[Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)* (Easy / Medium / Hard) -> берем задание -> смотрим теги задачи(Related Topics) -> берем книгу и читаем нужную тему.
 
 <details>
 <summary> Дополнительный материал </summary>
@@ -107,13 +105,12 @@
 
 
 ## HTTP & SERVLETS
-* *[Java EE для начинающих](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)* или *[Детальный курс по HTTP. Servlets от dmdev](https://youtu.be/EIUPwZsVFYY)*
+* *[Java EE(HTTP, Servlets)](https://youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)* || *[Детальный курс по Web, HTTP, Servlets от dmdev](https://www.youtube.com/playlist?list=PLnh8EajVFTl7_p5MgevvA41PvxQWq-jC8)*
 
 
 
 
 ## MAVEN & GRADLE
-* *[Maven статья на хабре](https://habr.com/ru/post/77382/)*
 * *[Maven Детальный курс от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
 * *[Gradle Детальный курс от dmdev](https://youtu.be/a7NVG1U-Qkc)*
 
@@ -124,13 +121,11 @@
 > Содержит множество компонентов для работы с разнообразными задачами. **Spring MVC**(для разработки веб-приложений), **Spring Data**(для работы с бд), **Spring Security**(для обеспечения безопасности приложений) и тд. Нужно разобраться с базовыми принципами работы с спринг, на чем все строится. Spring Basics(IoC Container, Spring Beans, Bean Configuration, Bean Wiring и тд).
 * *[Детальный курс по Spring от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5ZK-8o1KXwnbeBgoKYDbdr)*
 * *[ru Руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)*
-* *[Статья на хабре о механике Spring Framework и MVC](https://habr.com/ru/post/490586/)*
 * *[Короткий курс, база Spring Framework](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
-* *[Практика: REST API](https://youtu.be/q87Xxu4NPIc)*
 * *[Практика: Spring Boot project](https://youtube.com/playlist?list=PLU2ftbIeotGoGSEUf54LQH-DgiQPF2XRO)*
 * *[Практика: Spring Boot + Vue.js project](https://youtube.com/playlist?list=PLU2ftbIeotGqSTOVNjT4L3Yfy8jatCdhm)*
 
-Так же на данном этапе будет хорошо понимать некоторые принципы/пааттерны разработки ПО, такие как SOLID, Паттерные проектирования.
+> На данном этапе будет хорошо понимать принципы, паттерны разработки ПО, такие как SOLID, REST, Паттерные проектирования.
 * *[Теория: Паттерны проектирования](https://refactoring.guru/ru/design-patterns)*
 * *[Практика: Паттерны проектирования](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)*
 * *[Принципы Чистой Архитектуры от Дяди Боба](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)*
@@ -140,7 +135,7 @@
 
 
 ## JPA & HIBERNATE
-> Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию jpf), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
+> Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию JPA), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
 * *[Детальный курс по Hibernate от dmdev](https://coursehunter.net/course/hibernate)*
 * *[ru Документация по Hibernate](https://proselyte.net/tutorials/hibernate-tutorial/)*
 * *[Документация от спринга](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)*
@@ -214,7 +209,7 @@
 * WebSockets:
   * *[Junior.February2014.WebSockets #21 №1](https://youtube.com/playlist?list=PLoij6udfBncjXbiZ6pmX-chxQNjANR2Gh)*
 
-* Apache Maven:
+* Apache, Maven:
   * *[Junior.February2014.Maven#22 №1](https://youtube.com/playlist?list=PLoij6udfBnchZ36TWDdiQsPArx-ON-1GM)*
 
  *Log4J:
@@ -227,12 +222,14 @@
 ##
 
 
-### Идем на работу
+
+
+### Идем на собес
 
 <details>
-<summary> Закрываем дыры для собеса </summary>
+<summary> Закрываем дыры</summary>
 
-* **Data Structure & Algorithms** *(уметь решать не сложные а.задачи, знать базовые алгоритмы)*
+* **Data Structure & Algorithms** *(уметь решать easy, medium problem)*
   - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
 
 * **ООП**
@@ -247,10 +244,10 @@
 * **Collection Framework** *(**больше всего спрашивают**, надо очень подробно знать)*
   - *[Link 1](https://youtube.com/playlist?list=PL786bPIlqEjRvuYGGDMxy6YqzG-Hizvs8)* | *[Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)* | *[Link 3](https://youtu.be/xVfV8r_4GYI)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncjiXKA5ce0hi4b4DIvGymeo)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciAPeXh5oOGBsQ2c8GlEFu0)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncgIlUdvGNtG2Jp7gXbDMx15)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncjAZTDf6Vx281R5Y9mnm93q)* | *[Link 8](https://youtu.be/JDh3DsJGGMU)*
 
-* **Lamda** *(как работает, как устроено, черный ящик)*
+* **Lamda**
   - *[Link 1](https://youtu.be/jHStUYP1NEg)* | *[Link 2](https://youtu.be/33pi0sIZNEU)* | *[Link 3](https://youtu.be/sWwkwcAugR0)* | *[Link 4](https://youtu.be/oUvx2Up-PkA)* | *[Link 5](https://youtu.be/GMzP5vIG9YU)*
 
-* **Stream** *(как работает, методы)*
+* **Stream API**
   - *[Link 1](https://youtu.be/IQVwwwSe4Ic)* | *[Link 2](https://youtu.be/aC0-KsuPG0I)* | *[Link 3](https://youtu.be/RzEiCguFZiY)*
 
 * **Garbage Collector** *(gc(), finalize(), как он чистит мусор, как он работает, можно ли заставить работать)* 
@@ -259,40 +256,32 @@
 * **Multithreading / Concurrency** **_(базовые знания)_** *(как работает многопоточность, как создать тред, sleep, join, монитор, процесс гонки)*
   - *[Link 1](https://www.youtube.com/watch?v=VbLyaPPHtrE&list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV&index=4&t=47s)* | *[Link 2](https://metanit.com/java/tutorial/8.5.php)*
 
-* **Exception** *(**логирование**, ловля их, обработка в логи)*
+* **Exception** *(иерархия, checked и unchecked, когда нужно создавать свои исключения, когда нужно или не нужно обрабатывать ошибки)*
   - *[Link 1](https://youtu.be/_ndfgwHtcXY)* | *[Link 2 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=47)* | *[Link 3](https://youtu.be/mLpMtc62530)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncilVuX_R0sBrESIlyfQWVjm)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnchbxh8ZAY-FPlmj97aCILTY)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjLoxagaF5tGsDp-0XKMyhc)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnchR-Cc-RB4EUZokLrLlIuWQ)*
 
-* **String, String Pool** *(как работает память, как он копирует, имутабельность, отличие от других стрингов)*
+* **String, String Pool** *(как работает jvm memory, имутабельность, отличие от других стрингов)*
   - *[Link 1 Y](https://youtu.be/d_oou6CAz5U)* | *[Link 2 Y](https://youtu.be/1QP8y6-1fD0)*
 
 * **SQL + JDBC** *(Иметь крепкую базу, понимать как работает на практике, как создавать коннект, пулл, уровни изоляции транзакций sql _isolation levels_, грязночтение, понимание что будет происходить на уровне бд если человек читает текущую запись, а другой изменяет данные, какие данные будут у них видны и тд)*
   - *[Link 1 SQL Y](https://youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT)* | *[Link 2 SQL C](https://coursehunter.net/course/sql)* | *[Link 3 JDBC C](https://coursehunter.net/course/jdbc?lesson=1)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncijyqGvf-YLN7hAL0S6nIrG)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBncgGpXnVrDElGWoIhZMJTzr6)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjQ6nd4jZvelDojOLkdITDq)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncgy-PDoYGvxyZ5L5GnqV_2R)* | *[Link 8 G](https://youtube.com/playlist?list=PLoij6udfBncjY0jx7t8Sc-V_qoNZM5gAu)* | *[Link 9 G](https://youtube.com/playlist?list=PLoij6udfBncigW-7YJku0LlQTDlMwmL33)* | *[Link 10 G](https://youtube.com/playlist?list=PLoij6udfBncj5beNvOYxtPhOkAPKVYnFz)*
 
-* **Spring + Hibernate + WEB** *(базовые знания Spring framework, Hibernate, понимание как устроин web, что будет если ввести слово в поисковик и тд)*
-  - *[ссылка на плейлист по спрингу](https://youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ)*
+* **Web + Spring + Hibernate** *(понимание как устроин web, база Spring, Hibernate, что будет если кинуть GET request на домен)*
 
-* **Maven** *(меньше всего спрашивают) (как он устроен и как им пользоватся)*
-  - *[годный гайд от Немчинского](https://www.youtube.com/watch?v=IAbZVA4tK6M)*
-  - *[гайд от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
+* **Unit & Integation testing** *(иметь понимание как это делать и зачем. Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
 
-* **Unit & Integation testing** *(Хотя бы понимание как это делать и зачем. Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
+* **SOLID + Паттерны проектирования + REST**
+  - *[Link 1 W](https://habr.com/ru/post/688530/)* | *[Link 2 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 3 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 4 Y](https://youtu.be/1MDiB2Ya--4)* | *[Link 5 W](https://refactoring.guru/ru/design-patterns)* | *[Link 6 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Книга: Банда четырёх](https://t.me/dmytrii_bookshelf/231)*
 
-* **SOLID** *(как правильно программировать, понятия ООП, интерфейсы и тд.)*
-  - *[Link 1 W](https://habr.com/ru/post/688530/)* | *[Link 2 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 3 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 4 Y](https://youtu.be/1MDiB2Ya--4)*
-
-* **Паттерны проектирования** *(Знать и уметь реализовать базовые популярные паттерны).* 
-  - *[Link 1 W](https://refactoring.guru/ru/design-patterns)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Книга: Банда четырёх](https://t.me/dmytrii_bookshelf/231)*
-
-* **Git** *(хватит базы, уметь использовать на практике)*
+* **Git** *(хватит базы, уметь пользоваться через консоль)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
 ### Подготовка к собесу
 * **Структура собиседования**
   - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)* | *[Link 4 Y](https://youtu.be/oLZuCGuAnsM)*
-* **Частые вопросы для Java Junior**
-  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)*
-* **Составляем CV** 
-  - *[Link 1](https://www.youtube.com/watch?v=UV3YSVBJxX0)* | *[Link 2](https://youtu.be/nEnuP2NmMA4)* | *[Link 4](https://youtu.be/jhnsjSCgtu0)* | *[Link 5](https://youtu.be/i1tJ8FfEXv4)* | *[Link 6 CV](https://www.hiration.com/)* | *[Link 7 CV](https://www.pdf2go.com/)*
+* **Частые вопросы для Trainee/Junior Java developer**
+  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)* | *[Link 3 Y](https://youtube.com/playlist?list=PLxqzxxW1gWwJvVK11R_lJKAlP_9m3Gu2H)*
+* **Составляем Резюме и Сопроводительное письмо** 
+  - *[Link 1 Y](https://youtu.be/6XK2OvWHSsg)*
 </details>
 
 ##
@@ -317,8 +306,6 @@
   - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
   - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
   - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
-  - *[Sergey Nemchinskiy](https://www.youtube.com/c/SergeyNemchinskiy)*
-  - *[ExtremeCode](https://www.youtube.com/c/ExtremeCode)*
 
 
 
