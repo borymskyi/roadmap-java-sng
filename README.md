@@ -101,18 +101,25 @@
 
 
 
-### Идем на собес
+## Идем на собес
+* **Структура собиседования**
+  - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)*
+* **Частые вопросы для Java developer**
+  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)* | *[Link 3 Y](https://youtube.com/playlist?list=PLxqzxxW1gWwJvVK11R_lJKAlP_9m3Gu2H)*
+* **Составляем Резюме и Сопроводительное письмо** 
+  - *[Link 1 Y](https://youtu.be/6XK2OvWHSsg)*
+
 
 <details>
-<summary> Закрываем дыры</summary>
+<summary>Кратко какие темы нужно закрыть</summary>
 
-* **Data Structure & Algorithms** *(решить +-5 easy, medium problem)*
+* **Data Structure & Algorithms** *(решить +-5 easy problem)*
   - *[Link 1 V](https://youtu.be/_NhmGvYs8_g)* | *[Link 2 L](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)*
 
 * **ООП**
   - *[Link 1](https://youtu.be/4owUYYdcAOw)* | *[Link 2](https://youtu.be/YMTdEXpQTZQ)* | *[Link 3](https://youtu.be/BYu8gT0hGCQ)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncgtdSaq4nqVNtTqPeyh7rnV)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciXh1_Itg-Hiw9EdGGzwYPE)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncjjuiZQNFx_b4A5Ygdn1YbS)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBnch50JMDvipTQmAp-q4Pw6jG)* | *[Link 8 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=20)* | *[Link Y](https://youtu.be/Xg_DTzM6o6U)*
 
-* **Generics** *(как применять, как оно работает)*
+* **Generics**
   - *[Link 1 G](https://youtu.be/Yymzcnt-Ars)* | *[Link 2 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=27)* | *[Link 3 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=28)* | *[Link 4 D](https://coursehunter.net/course/java-dlya-nachinayushchih-level-2?lesson=29)*
 
 * **Object** *(знать методы)*
@@ -121,11 +128,8 @@
 * **Collection Framework** *(**больше всего спрашивают**, надо очень подробно знать)*
   - *[Link 1](https://youtube.com/playlist?list=PL786bPIlqEjRvuYGGDMxy6YqzG-Hizvs8)* | *[Link 2](https://youtube.com/playlist?list=PLqj7-hRTFl_oDMBjI_EstsFcDAwt-Arhs)* | *[Link 3](https://youtu.be/xVfV8r_4GYI)* | *[Link 4 G](https://youtube.com/playlist?list=PLoij6udfBncjiXKA5ce0hi4b4DIvGymeo)* | *[Link 5 G](https://youtube.com/playlist?list=PLoij6udfBnciAPeXh5oOGBsQ2c8GlEFu0)* | *[Link 6 G](https://youtube.com/playlist?list=PLoij6udfBncgIlUdvGNtG2Jp7gXbDMx15)* | *[Link 7 G](https://youtube.com/playlist?list=PLoij6udfBncjAZTDf6Vx281R5Y9mnm93q)* | *[Link 8](https://youtu.be/JDh3DsJGGMU)*
 
-* **Lamda**
-  - *[Link 1](https://youtu.be/jHStUYP1NEg)* | *[Link 2](https://youtu.be/33pi0sIZNEU)* | *[Link 3](https://youtu.be/sWwkwcAugR0)* | *[Link 4](https://youtu.be/oUvx2Up-PkA)* | *[Link 5](https://youtu.be/GMzP5vIG9YU)*
-
-* **Stream API**
-  - *[Link 1](https://youtu.be/IQVwwwSe4Ic)* | *[Link 2](https://youtu.be/aC0-KsuPG0I)* | *[Link 3](https://youtu.be/RzEiCguFZiY)*
+* **Lamda, Stream API**
+  - *[Link 1](https://youtu.be/jHStUYP1NEg)* | *[Link 2](https://youtu.be/33pi0sIZNEU)* | *[Link 3](https://youtu.be/sWwkwcAugR0)* | *[Link 4](https://youtu.be/oUvx2Up-PkA)* | *[Link 5](https://youtu.be/GMzP5vIG9YU)* | *[Link 6](https://youtu.be/IQVwwwSe4Ic)* | *[Link 7](https://youtu.be/aC0-KsuPG0I)* | *[Link 8](https://youtu.be/RzEiCguFZiY)*
 
 * **Garbage Collector** *(gc(), finalize(), как он чистит мусор, как он работает, можно ли заставить работать)* 
   - *[Link 1](https://youtu.be/-ayMplONmkI)*
@@ -141,9 +145,9 @@
 
 * **SQL + JDBC** *(хорошая база, DDL, DML, как писать запросы с JOIN / GROUP BY, внешние ключи, понимать что такое уровни изоляции)*
 
-* **Web + Spring + Hibernate** *(понимание как устроин network, база Spring IoC, Boot, Hibernate)*
+* **Web + Spring + Hibernate** *(понимание как устроин network, база Spring IoC, Boot, Hibernate понимать приназначение ORM)*
 
-* **Unit & Integation testing** *(иметь понимание как это делать и зачем. Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
+* **Unit & Integation testing** *(Создать мини метод, сделать на него тест, на истину/ложь и на ошибку)*
 
 * **SOLID + Паттерны проектирования + REST**
   - *[Link 1 W](https://habr.com/ru/post/688530/)* | *[Link 2 G](https://youtube.com/playlist?list=PLoij6udfBncgRuXhcs1gsWhUlS_8ZOLbg)* | *[Link 3 W](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)* | *[Link 4 Y](https://youtu.be/1MDiB2Ya--4)* | *[Link 5 W](https://refactoring.guru/ru/design-patterns)* | *[Link 6 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P)* | *[Книга: Банда четырёх](https://t.me/dmytrii_bookshelf/231)*
@@ -151,16 +155,6 @@
 * **Git** *(хватит базы, уметь пользоваться через консоль)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
 
-
-
-
-### Подготовка к собесу
-* **Структура собиседования**
-  - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)*
-* **Частые вопросы для Trainee/Junior Java developer**
-  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)* | *[Link 3 Y](https://youtube.com/playlist?list=PLxqzxxW1gWwJvVK11R_lJKAlP_9m3Gu2H)*
-* **Составляем Резюме и Сопроводительное письмо** 
-  - *[Link 1 Y](https://youtu.be/6XK2OvWHSsg)*
 </details>
 
 ##
@@ -176,10 +170,14 @@
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
   - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
 - Годные Youtube каналы:
+  - *[Кто понимает украинский, Bobocode](https://youtube.com/playlist?list=PLqt5_5aU1KQLFZH-Rltag_AvHtQvDHhzG)*
+  - *[Amigoscode](https://www.youtube.com/@amigoscode)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
   - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
   - *[codelike](https://www.youtube.com/c/codelike)*
   - *[dmdev](https://www.youtube.com/c/dmdev/videos)*
+  - *[Александр Ильин](https://www.youtube.com/user/MrProstatit)*
+  - *[Anton Nazarov](https://www.youtube.com/@m0rtymerr)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
   - *[Аве Кодер](https://www.youtube.com/c/%D0%90%D0%B2%D0%B5%D0%9A%D0%BE%D0%B4%D0%B5%D1%80)*
   - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
