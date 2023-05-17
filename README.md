@@ -63,7 +63,7 @@
 
 ## MAVEN & GRADLE
 * *[Maven Детальный курс от dmdev](https://youtube.com/playlist?list=PLnh8EajVFTl5fusY9MRBEOoLjbv8Trms5)*
-* *[Gradle Детальный курс от dmdev](https://youtu.be/a7NVG1U-Qkc)*
+* *[Gradle Детальный курс от dmdev](https://www.youtube.com/playlist?list=PLnh8EajVFTl7JYxhZs7CfxyTsUMvcBXig)*
 
 
 
@@ -87,7 +87,7 @@
 
 ## JPA & HIBERNATE
 > Спецификация, описывающая, как удобно представлять данные из бд в виде Java объектов. Спецификация не является фреймворком. Она только показывает, что должен уметь реальный фреймворк. А вот фреймворк уже реализует спецификацию. т.е. реальная работа происходит как раз в нем. **Hibernate**(фреймворк, реализующий спецификацию JPA), **ORM**(общее понятие для представления данных из бд в виде java объектов, тогда каждая строка таблицы становится java объектом).
-* *[Детальный курс по Hibernate от dmdev](https://coursehunter.net/course/hibernate)*
+* *[Детальный курс по Hibernate от dmdev](https://www.youtube.com/playlist?list=PLnh8EajVFTl7dQ77iqr55gFLcyYjedAlE)*
 * *[ru Документация по Hibernate](https://proselyte.net/tutorials/hibernate-tutorial/)*
 * *[Документация от спринга](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)*
 
@@ -103,7 +103,7 @@
 
 
 ## Идем на собес
-* **Структура собиседования**
+* **Структура собеседования**
   - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)*
 * **Частые вопросы для Java developer**
   - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)* | *[Link 3 Y](https://youtube.com/playlist?list=PLxqzxxW1gWwJvVK11R_lJKAlP_9m3Gu2H)*
@@ -155,6 +155,9 @@
 
 * **Git** *(хватит базы, уметь пользоваться через консоль)*
   - *[основы за час по ролику](https://youtu.be/dHlhCO56Pv0)* | *[GIT Полный курс](https://youtube.com/playlist?list=PLAma_mKffTOTIomJBmL9J42PP0l7riFUO)* | *[GIT Альтернативный курс](https://www.youtube.com/playlist?list=PLuY6eeDuleIOMB2R_Kky05ZfiAx2_pbAH)* | *[GIT Интерактивный тренажер](https://learngitbranching.js.org/?locale=ru_RU)* | *[документация от Жени](https://proselyte.net/tutorials/git/introduction/)*
+ 
+* **Компьютерные сети** *(Основные верхнеуровневые протоколы, понимание того как работает модель OSI)*
+  - *[Базовые знания](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1)* | *[Продвинутые темы](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh_w4_jtRnKE11aqeRldCFI)* | *[Защищенные сетевые протоколы](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv)* 
 
 </details>
 
