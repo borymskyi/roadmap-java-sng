@@ -175,17 +175,19 @@
   - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
 - Годные Youtube каналы:
   - *[Кто понимает украинский, Bobocode](https://youtube.com/playlist?list=PLqt5_5aU1KQLFZH-Rltag_AvHtQvDHhzG)*
-  - *[Amigoscode](https://www.youtube.com/@amigoscode)*
+  - *[Amigoscode en](https://www.youtube.com/@amigoscode)*
   - *[Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov)*
+  - *[HighLoad докладоы по тематике высоких нагрузок](https://youtube.com/@HighLoadChannel)*
+  - *[TechTrain доклады](https://youtube.com/@TechTrainFest)*
+  - *[Podlodka tech подкасты](https://youtube.com/@PodlodkaShow)*
+  - *[Уголок сельского джависта](https://youtube.com/@shurik_codes)*
+  - *[Jetbulb](https://youtube.com/@Jetbulb)*
   - *[letstCode](https://www.youtube.com/c/letsCodeDru)*
   - *[codelike](https://www.youtube.com/c/codelike)*
   - *[dmdev](https://www.youtube.com/c/dmdev/videos)*
   - *[Александр Ильин](https://www.youtube.com/user/MrProstatit)*
-  - *[Anton Nazarov](https://www.youtube.com/@m0rtymerr)*
   - *[Ulbi TV](https://www.youtube.com/c/UlbiTV)*
   - *[Аве Кодер](https://www.youtube.com/c/%D0%90%D0%B2%D0%B5%D0%9A%D0%BE%D0%B4%D0%B5%D1%80)*
-  - *[S0ER TALKS](https://www.youtube.com/channel/UCcNotjFXtUZ6bTAWk1KpOWg)*
-  - *[S0ER](https://www.youtube.com/c/S0ERDEVS)*
   - *[Senior Software Vlogger](https://www.youtube.com/c/SeniorSoftwareVlogger)*
 
 
