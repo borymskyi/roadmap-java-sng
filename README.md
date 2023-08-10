@@ -41,8 +41,9 @@
 
 <details>
 <summary> Дополнительный материал </summary>
-
-* *[Link 1 Y](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)* | *[Link 3 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
+ 
+ * *[Visualgo](https://visualgo.net/en)* | *[BigOcheatsheet](https://www.bigocheatsheet.com/)*
+ * *[Link Y](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
 </details>
 
 
