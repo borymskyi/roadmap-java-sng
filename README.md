@@ -43,7 +43,7 @@
 <summary> Дополнительный материал </summary>
  
  * *[Visualgo](https://visualgo.net/en)* | *[BigOcheatsheet](https://www.bigocheatsheet.com/)*
- * *[Link Y](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)*
+ * *[Link Y](https://www.youtube.com/watch?v=_NhmGvYs8_g&t=686s)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTOKU87z9NhHHRH9nvE5chfH)* | *[Link Y](https://youtube.com/playlist?list=PLlsMRoVt5sTPCbbIW2QZ-hRMW80lymEYR)* | *[Link Y](https://youtu.be/c3RVW3KGIIE)* | *[Link W](https://habr.com/ru/articles/128017/)*
 </details>
 
 
