@@ -195,4 +195,8 @@
 
 
 ##
-[Так же вы можете поддержать автора чеканной монетой.](https://send.monobank.ua/jar/AGN7gXSmuT)
+Также вы можете поддержать автора чеканной монетой:
+<br>
+Bitcoin ```bc1qsw5wz47s4uj7uq6um9jx5sgcygax7xmtrm6e00``` <br>
+Ethereum ```0x522978b44741f6601b308b2fc3d918cf5f4b9a0c``` <br>
+Tron ```TY7Ekqbu8PmiwUnjutN8tw2AmenUvMV1CB```
