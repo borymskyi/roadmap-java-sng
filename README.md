@@ -170,7 +170,7 @@
 ### Дополнительный материал
 
 - Разное:
-  - *[Телега с книгами](https://t.me/dmytrii_bookshelf)*
+  - *[Телега с книгами](https://t.me/borymskyi_bookshelf)*
   - *[roadmap backend](https://roadmap.sh/backend)*
   - *[Если у тебя все совсем плохо - лекции CS50](https://youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)*
   - *[Краткие гайды по Java](https://proselyte.net/tutorials/)*
