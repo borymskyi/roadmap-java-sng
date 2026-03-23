@@ -102,16 +102,6 @@
 
 
 
-
-## Идем на собес
-* **Структура собеседования**
-  - *[Link 1 Y](https://youtu.be/UQnpwtdHiDs)* | *[Link 2 Y](https://youtu.be/vArj4XmtxvY)* | *[Link 3 Y](https://youtu.be/lq4TKfc-Ot4)*
-* **Частые вопросы для Java developer**
-  - *[Link 1](https://github.com/enhorse/java-interview)* | *[Link 2 Y](https://youtube.com/playlist?list=PLlsMRoVt5sTMMCwd_gLaaZMkQhzVh9hLA)* | *[Link 3 Y](https://youtube.com/playlist?list=PLxqzxxW1gWwJvVK11R_lJKAlP_9m3Gu2H)*
-* **Составляем Резюме и Сопроводительное письмо** 
-  - *[Link 1 Y](https://youtu.be/6XK2OvWHSsg)*
-
-
 <details>
 <summary>Кратко какие темы нужно закрыть</summary>
 
